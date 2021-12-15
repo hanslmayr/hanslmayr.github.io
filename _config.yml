@@ -11,7 +11,7 @@ title                    : "Cognition and Oscillations Lab Webpage"
 title_separator          : "-"
 name                     : &name "CoOLab"
 description              : &description "Webpage of the Cognition and Oscillations Lab at the University of Glasgow"
-url                      : "https://hanslmayr.github.io/CoOLab.github.io/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://hanslmayr.github.io/CoOLab.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "https://hanslmayr.github.io/CoOLab.github.io/"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : &SimonHanslmayr
 facebook:
   username               :
   app_id                 :
@@ -80,13 +80,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  name             : "CoOLab"
+  avatar           : "CoOL-logo.png"
+  bio              : ""
+  location         : "Glasgow, UK"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=simon+hanslmayr"
+  googlescholar    : "https://scholar.google.de/citations?user=DaiCRJkAAAAJ&hl=de"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : #"academicpages"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "@SimonHanslmayr"
   vine             :
   weibo            :
   xing             :
