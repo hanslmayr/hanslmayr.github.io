@@ -72,23 +72,63 @@ Staudigl, T., Hanslmayr, S. (2019) Reactivation of neural patterns during memory
 
 Hanslmayr, S., Axmacher, N., Inman, C.S. (2019) Modulating human memory via entrainment of brain oscillations. *Trends Neurosci*, 42(7), 485-499. [paper](https://doi.org/10.1016/j.tins.2019.04.004)
  
-Salvidegoitia, M.P., Jacobsen, N., Griffiths, B., Hanslmayr, S., Debener, S. (2019) Out and about: subsequent memory effect captured in a natural environment with smartphone EEG. Psychophysiology, 45(5), e13331.
+Salvidegoitia, M.P., Jacobsen, N., Griffiths, B., Hanslmayr, S., Debener, S. (2019) Out and about: subsequent memory effect captured in a natural environment with smartphone EEG. *Psychophysiology*, 45(5), e13331. [paper](https://doi.org/10.1111/psyp.13331)
 
-Aquino, K., Sokoliuk, R., Pakenham, D., Sanchez-Panchuelo, R., Hanslmayr, S., Mayhew, S.J., Mullinger, K.J., Francis, S.T. (2018) The challenges of using high spatial resolution, ultra-high field fMRI data for group analysis of higher-order cognitive tasks; demonstrated with a task directing attention between visual and somatosensory domains. Hum Brain Mapp, 40(4), 1298-1316. 
+Aquino, K., Sokoliuk, R., Pakenham, D., Sanchez-Panchuelo, R., Hanslmayr, S., Mayhew, S.J., Mullinger, K.J., Francis, S.T. (2018) The challenges of using high spatial resolution, ultra-high field fMRI data for group analysis of higher-order cognitive tasks; demonstrated with a task directing attention between visual and somatosensory domains. *Hum Brain Mapp*, 40(4), 1298-1316. [paper](https://doi.org/10.1002/hbm.24450)
 	
-Michelmann, S., Staresina, B., Bowman, H., Hanslmayr, S. (2019) Speed of time-compressed forward replay flexibly changes in human episodic memory. Nat Hum Behav, 3, 143–154.
+Michelmann, S., Staresina, B., Bowman, H., Hanslmayr, S. (2019) Speed of time-compressed forward replay flexibly changes in human episodic memory. *Nat Hum Behav*, 3, 143–154. [paper](https://www.nature.com/articles/s41562-018-0491-4)
 
 2018
 ---
 ---
+Kerren, C., Linde-Domingo, J., Hanslmayr, S., Wimber, M. (2018) An optimal oscillatory phase for pattern reactivation during memory retrieval. *Curr Biol*, 28(21), 3383-3392. [paper](https://doi.org/10.1016/j.cub.2018.08.065)
+
+Waldhauser, G.T., Dahl, M.J., Ruf-Leutschner, M., Mueller-Bamouh, V., Schauer, M., Axmacher, N., Elbert, T., Hanslmayr, S. (2018) The neural dynamics of deficient memory control in heavily traumatized refugees. *Sci Rep*, 8(10), 13132. [paper](https://www.nature.com/articles/s41598-018-31400-x)
+
+Oehrn, C.R., Fell, J., Baumann, C., Rosburg, T., Ludowig, E., Kessler, H., Hanslmayr, S., Axmacher, N. (2018) Direct electrophysiological evidence for prefrontal control of hippocampal processing during voluntary forgetting. *Curr Biol*, 28(18), 3016-3022. [paper](https://doi.org/10.1016/j.cub.2018.07.042)
+
+Michelmann, S., Treder, M.S., Griffiths, B.J., Kerrén, C., Roux, F., Wimber, M., Rollings, D., Sawlani, V., Chelvarajah, R., Gollwitzer, S., Kreiselmeyer, G., Hamer, H., Bowman, H., Staresina, B., Hanslmayr, S. (2018) Data-driven re-referencing of intracranial EEG based on independent component analysis (ICA). *J Neurosci Meth*, 307, 125-137. [paper](https://doi.org/10.1016/j.jneumeth.2018.06.021)
+	
+Michelmann, S., Bowman, H., Hanslmayr, S. (2018) Replay of Stimulus Specific Temporal Patterns during Associative Memory Formation. *J Cogn Neurosci*, 30(11), 1577-1589. [paper](https://doi.org/10.1162/jocn_a_01304)
+
+Wang, D., Clouter, A., Chen, Q., Shapiro, K.L., Hanslmayr, S. (2018) Single-trial Phase Entrainment of Theta Oscillations in Sensory Regions Predicts Human Associative Memory Performance. *J Neurosci*, 38(28), 6299-6309. [paper](https://doi.org/10.1523/JNEUROSCI.0349-18.2018)
+ 
+Parish, G., Hanslmayr, S., Bowman, H. (2018) The Sync/de-Sync Model: How a synchronized hippocampus and a de-synchronized neocortex code memories. *J Neurosci*, 38(14), 3428-3440. [paper](https://doi.org/10.1523/JNEUROSCI.2561-17.2018)
+
+Westner, B., Dalal, S.S., Hanslmayr, S., Staudigl, T. (2018) Across-subjects classification of stimulus modality from human MEG high-frequency activity. *PLoS Comp Biol*, 14(3), e1005938. [paper](https://doi.org/10.1371/journal.pcbi.1005938)
 
 2017
 ---
 ---
+Clouter, A., Shapiro, K.L., Hanslmayr, S. (2017) Theta phase synchronization is the glue that binds human associative memory. *Curr Biol*, 27(20), 3143–3148. [paper](https://doi.org/10.1016/j.cub.2017.09.001)
+see Commentary by Berens, S.C. & Horner, A.J. [Theta Rhythm: Temporal Glue for Episodic Memory](https://doi.org/10.1016/j.cub.2017.08.048)
+
+Braun, V., Sokoliuk, R., Hanslmayr, S. (2017) On the Effectiveness of Event-related Beta tACS on Episodic Memory Formation and Motor Cortex Excitability. *Brain Stim*, 10(5), 910-918. [paper](https://doi.org/10.1016/j.brs.2017.04.129)
+
+Hanslmayr, S., Roux, F. (2017) Human Memory: Brain-State-Dependent effects of Stimulation. *Curr Biol*, 27(10), R385-R387. [paper](https://doi.org/10.1016/j.cub.2017.03.079)
+
+Shapiro, K.L., Hanslmayr, S., Enns, J.T., Lleras, A. (2017) Alpha, Beta: The Rhythm of the Attentional Blink. *Psych Bull Rev*, 24, 1862-1869. [paper](https://link.springer.com/article/10.3758%2Fs13423-017-1257-0)
+
+Fellner, M.-C., Volberg, G., Wimber, M., Goldhacker, M., Greenlee, M.W., Hanslmayr, S. (2017) Spatial mnemonic encoding is related to theta power decreases and medial temporal lobe BOLD increases. *eNeuro*, 3(6), 0184-16.2016. [paper](https://www.eneuro.org/content/3/6/ENEURO.0184-16.2016) 
 
 2016
 ---
 ---
+Griffiths, B.J., Mazaheri, A., Debener, S., Hanslmayr, S. (2016). Brain Oscillations track the formation of episodic memories in the real world. *NeuroImage*, 143, 256-266. [paper](https://doi.org/10.1016/j.neuroimage.2016.09.021) 
+	
+Meconi, F., Anderl-Straub, S., Raum, H., Landgrebe, M., Langguth, B., Bäuml, K-H.T., Hanslmayr, S. (2016) Aberrant prefrontal beta oscillations predict episodic memory encoding deficits in schizophrenia. *NeuroImage: Clinical,* 12, 499-505. [paper](https://doi.org/10.1016/j.nicl.2016.08.017)
+ 
+Stonkus, R., Braun, V., Kerlin, J., Volberg, G., Hanslmayr, S. (2016) Probing the causal role of prestimulus interregional synchrony for perceptual integration via tACS. *Sci Rep* 6: 32065. [paper](https://www.nature.com/articles/srep32065)
+
+Michelmann, S., Bowman, H., Hanslmayr, S. (2016). The temporal signature of dynamic memories - Identification of a general replay mechanism for human memories. *PLoS Biol* 14(8): e1002528. [paper](https://doi.org/10.1371/journal.pbio.1002528)
+
+Fellner, M.-C., Volberg, G., Mullinger, K.J., Goldhacker, M., Wimber, M., Greenlee, M.W., Hanslmayr, S. (2016) Spurious correlations in simultaneous EEG-fMRI driven by in-scanner movement. *NeuroImage*, 133, 354-366. [paper](https://doi.org/10.1016/j.neuroimage.2016.03.031) 
+
+Backus, A.R., Schoffelen, J.M., Szebényi, S., Hanslmayr, S., Doeller, C.F. (2016). Inference through communication: Hippocampal-prefrontal theta oscillations support memory integration. *Curr Biol*, 26, 450-457.
+	
+Hanslmayr, S., Staresina, B., Bowman, H. (2016) Oscillations and episodic memory - Addressing the synchronization / desynchronization conundrum. *Trends Neurosci*, 39, 16-25.
+
+Waldhauser, G., Braun, V., Hanslmayr, S. (2016). Episodic memory retrieval relies on very rapid reactivation of sensory information. *J Neurosci*, 36, 251-60.
 
 2015 and earlier
 ---
