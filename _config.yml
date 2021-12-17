@@ -11,9 +11,9 @@ title                    : "Cognition and Oscillations Lab Webpage"
 title_separator          : "-"
 name                     : &name "CoOLab"
 description              : &description "Webpage of the Cognition and Oscillations Lab at the University of Glasgow"
-url                      : https://coolab.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://hanslmayr.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "coolab.github.io/"
+repository               : "hanslmayr.github.io/"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
