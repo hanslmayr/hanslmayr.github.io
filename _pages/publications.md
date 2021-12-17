@@ -7,7 +7,7 @@ author_profile: true
 
 ## Preprints
 
-Wang, D., Parish, G., Shapiro, K.L., Hanslmayr, S. Interaction between theta-phase and spike-timing dependent plasticity simulates theta induced memory effects. *bioRxiv*, https://doi.org/10.1101/2021.11.24.469900
+Wang, D., Parish, G., Shapiro, K.L., Hanslmayr, S. Interaction between theta-phase and spike-timing dependent plasticity simulates theta induced memory effects. *bioRxiv*, [Paper] (https://doi.org/10.1101/2021.11.24.469900)
 
 Melcón, M., van Bree, S., Sánchez-Carro, Y., Barreiro-Fernández, L., Kolibius, L.D., Alzueta, E., Wimber, M., Capilla, A., Hanslmayr, S. The spotlight of attention turns from rhythmic exploration-exploitation to a stable exploitation state. *bioRxiv*, https://doi.org/10.1101/2021.11.18.469122
 
