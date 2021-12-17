@@ -23,9 +23,9 @@ Roux, F., Parish, G.M., Chelvarajah, R., Rollings, D.T., Sawlani, V., Hamer, H.,
 2021
 ---
 ---
-Treder, M.S., Charest, I., Michelmann, S., Martín-Buro, M.-C., Roux, F., Benito, F.C., Ugalde-Canitrot, A., Rollings, D.T., Sawlani, V., Chelvarajah, R., Wimber, M., Hanslmayr, S., Staresina, B.P. (2021) The hippocampus as the switchboard between perception and memory. *PNAS*, 118(50): e2114171118. doi:10.1073/pnas.2114171118. 
+Treder, M.S., Charest, I., Michelmann, S., Martín-Buro, M.-C., Roux, F., Benito, F.C., Ugalde-Canitrot, A., Rollings, D.T., Sawlani, V., Chelvarajah, R., Wimber, M., Hanslmayr, S., Staresina, B.P. (2021) The hippocampus as the switchboard between perception and memory. *PNAS*, 118(50): e2114171118. https://doi.org/10.1073/pnas.2114171118
 
-Ter Wal, M., Domingo, J.-L., Lifanov, J., Roux, F., Kolibius, L., Gollwitzer, S., Lang, J., Hamer, H., Rollings, D., Sawlani, V., Chelvarajah, R., Staresina, B., Hanslmayr, S., Wimber, M. (2021) Theta rhythmicity governs the timing of behavioral and hippocampal responses in humans specifically during memory-dependent tasks. *Nature Comms*., 12(1):7048. doi:10.1038/s41467-021-27323-3.
+Ter Wal, M., Domingo, J.-L., Lifanov, J., Roux, F., Kolibius, L., Gollwitzer, S., Lang, J., Hamer, H., Rollings, D., Sawlani, V., Chelvarajah, R., Staresina, B., Hanslmayr, S., Wimber, M. (2021) Theta rhythmicity governs the timing of behavioral and hippocampal responses in humans specifically during memory-dependent tasks. *Nature Comms*., 12(1):7048. https://doi.org/10.1038/s41467-021-27323-3
 
 Griffiths, B.J., Martín-Buro, M.C., Staresina, B.P., Hanslmayr, S. (2021) Disentangling the roles of neocortical alpha/beta and hippocampal theta/gamma activity in human episodic memory. *Neuroimage*, 242, 118454. https://doi.org/10.1016/j.neuroimage.2021.118454
 
