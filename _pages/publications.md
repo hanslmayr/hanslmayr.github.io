@@ -45,10 +45,38 @@ Griffiths, B.J., Martín-Buro, M.C., Staresina, B.P., Hanslmayr, S., Staudigl, T
 2020
 ---
 ---
+Van Der Plas, M., Hanslmayr, S. (2020) Entraining Neurons Via Non-Invasive Electric Stimulation Improves Cognition. *PLoS Biol*, Oct 22;18(10):e3000931. [paper](https://doi:10.1371/journal.pbio.3000931)
+
+van der Plas, M., Brittain, J.-S., Hanslmayr, S. (2020) Investigating the Role of Phase-Synchrony During Encoding of Episodic Memories Using Electrical Stimulation. *Cortex*, 133, 37-47. [paper](https://doi.org/10.1016/j.cortex.2020.09.006)
+
+Stauch, B., Braun, V., Hanslmayr, S. (2020) Probing the causal involvement of dlPFC in directed forgetting using rTMS - A replication study. *PLoS One*, 15(8):e0236287. [paper](https://doi.org/10.1371/journal.pone.0236287)
 
 2019
 ---
 ---
+Griffiths, B.J., Mayhew, S.D., Mullinger, K.J, Jorge, J., Charest, I., Wimber, M., Hanslmayr, S. (2019) Alpha/beta power decreases track the fidelity of stimulus-specific information. *eLife*, doi: 10.7554/eLife.49562. [paper](https://elifesciences.org/articles/49562)
+
+MacDonald, H.J., Brittain, J.-S., Spitzer, B., Hanslmayr, S., Jenkinson, N. (2019) Impaired Desynchronization of Beta Activity Underlies Episodic Memory Deficits in Parkinson’s Disease. *Brain Comms*, 1(1): fcz040. [paper](https://doi.org/10.1093/braincomms/fcz040)
+
+Griffiths, B.J., Michelmann, S., Roux, F., Chelvarajah, R., Rollings, D.T., Sawlani, V., Hamer, H., Gollwitzer, S., Kreiselmeyer, G., Staresina, B., Wimber, M., Hanslmayr, S. (2019) Hippocampal synchrony and neocortical desynchrony cooperate to encode and retrieve episodic memories. *PNAS*, 116(43): 21834-21842. [paper](https://doi.org/10.1073/pnas.1914180116)
+
+Ferreira, C.S., Maraver, M.J., Hanslmayr, S., Bajo, T. (2019) Theta oscillations show impaired interference detection in the elderly during selective memory retrieval. *Scientific Reports*, 9(1), 9977. [paper](https://www.nature.com/articles/s41598-019-46214-8)
+
+Fellner, M.C., Gollwitzer, S., Rampp, S., Kreiselmeyer, G., Bush, D., Diehl, B., Axmacher, N., Hamer, H., Hanslmayr, S. (2019) Spectral fingerprints or spectral tilt? Evidence for distinct oscillatory signatures of memory formation. *PLoS Biol*, 17(7), e3000403. [paper](https://doi.org/10.1371/journal.pbio.3000403)
+
+Sokoliuk ,R., Mayhew, S.D., Aquino, K.M., Wilson, R., Brookes, M.J., Francis, S.T., Hanslmayr, S., Mullinger, K.J. (2019) Two spatially distinct posterior alpha sources fulfill different functional roles in attention. *J Neurosci*, 39(36), 7138-7194. [paper](https://doi.org/10.1523/JNEUROSCI.1993-18.2019)
+
+Gehrig, J., Michalareas, G., Forster, M.-T., Lei, J., Hok, P., Laufs, H., Senft, C., Seifert, V., Schoffelen, J.-M., Hanslmayr, S., Kell, C.A. (2019) Endogenous Beta Oscillations Code Speech during Verbal Working Memory. *J Neurosci*, 39(33), 6498-6512. [paper](https://doi.org/10.1523/JNEUROSCI.0018-19.2019)
+
+Staudigl, T., Hanslmayr, S. (2019) Reactivation of neural patterns during memory reinstatement supports encoding specificity. *Cogn Neurosci*, 10(4), 175-185. [paper](https://doi.org/10.1080/17588928.2019.1621825)
+
+Hanslmayr, S., Axmacher, N., Inman, C.S. (2019) Modulating human memory via entrainment of brain oscillations. *Trends Neurosci*, 42(7), 485-499. [paper](https://doi.org/10.1016/j.tins.2019.04.004)
+ 
+Salvidegoitia, M.P., Jacobsen, N., Griffiths, B., Hanslmayr, S., Debener, S. (2019) Out and about: subsequent memory effect captured in a natural environment with smartphone EEG. Psychophysiology, 45(5), e13331.
+
+Aquino, K., Sokoliuk, R., Pakenham, D., Sanchez-Panchuelo, R., Hanslmayr, S., Mayhew, S.J., Mullinger, K.J., Francis, S.T. (2018) The challenges of using high spatial resolution, ultra-high field fMRI data for group analysis of higher-order cognitive tasks; demonstrated with a task directing attention between visual and somatosensory domains. Hum Brain Mapp, 40(4), 1298-1316. 
+	
+Michelmann, S., Staresina, B., Bowman, H., Hanslmayr, S. (2019) Speed of time-compressed forward replay flexibly changes in human episodic memory. Nat Hum Behav, 3, 143–154.
 
 2018
 ---
