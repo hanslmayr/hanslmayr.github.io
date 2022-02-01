@@ -5,7 +5,7 @@ permalink: /funding/
 author_profile: true
 ---
   
-### Our research has been made possible by the followong funding agencies which either support us currently, or have supported us in the past. 
+### Our research has been made possible by the following funding agencies which either support us currently, or have supported us in the past. 
 <br>
 
 ## Deutsche Forschungsgemeinsschaft, Germany
