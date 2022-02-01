@@ -1,4 +1,4 @@
-----
+---
 layout: archive
 title: "Funding"
 permalink: /funding/
