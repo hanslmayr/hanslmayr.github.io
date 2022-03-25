@@ -35,7 +35,7 @@ author_profile: true
 <br>
 
 ## Medical Research Council, UK
-<img align="left" src="https://hanslmayr.github.io/images/MRC_logo.png" width="400 px" style="padding: 10px">
+<img align="left" src="https://hanslmayr.github.io/images/MRC_logo.png" width="350 px" style="padding: 10px">
 <br>
 <br>
 <br>
