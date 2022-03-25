@@ -34,6 +34,14 @@ author_profile: true
 <br>
 <br>
 
+## Medical Research Council, UK
+<img align="left" src="https://hanslmayr.github.io/images/MRC_logo.png" width="400 px" style="padding: 10px">
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 ## The Leverhulme Trust, UK ##
 <img align="left" src="https://hanslmayr.github.io/images/Leverhulme-Trust_logo.jpg" width="200 px" style="padding: 10px">
