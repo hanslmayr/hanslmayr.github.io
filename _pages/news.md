@@ -7,7 +7,7 @@ author_profile: true
 ---
 
 <img align="left" src="https://hanslmayr.github.io/images/celebrate.jpg" width="200 px" style="padding: 20px">
-<br>
+
 **Luca Kolibius** wins second place at PGR symposium on Wednesday for his talk on how neurons code episodic memories. Well done Luca!
 <br>
 <br>
