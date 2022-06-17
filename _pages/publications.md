@@ -7,8 +7,6 @@ author_profile: true
 
 ## Preprints
 
-Griffiths, B.J., Zaehle, T., Repplinger, S., Schmitt, F.C., Voges, J., Hanslmayr, S., Staudigl, T. Rhythmic interactions between the mediodorsal thalamus and prefrontal cortex precede human visual perception. *bioRxiv*, [preprint](https://www.biorxiv.org/content/10.1101/2022.02.07.479362v1)
-
 Wang, D., Parish, G., Shapiro, K.L., Hanslmayr, S. Interaction between theta-phase and spike-timing dependent plasticity simulates theta induced memory effects. 
 
 Melcón, M., van Bree, S., Sánchez-Carro, Y., Barreiro-Fernández, L., Kolibius, L.D., Alzueta, E., Wimber, M., Capilla, A., Hanslmayr, S. The spotlight of attention turns from rhythmic exploration-exploitation to a stable exploitation state. *bioRxiv*, [preprint](https://doi.org/10.1101/2021.11.18.469122)
@@ -23,7 +21,9 @@ Roux, F., Parish, G.M., Chelvarajah, R., Rollings, D.T., Sawlani, V., Hamer, H.,
 2022 - in press
 ---
 ---
-van Bree, S., Melcon, M., Kolibius, L., Kerren, C., Wimber, M., Hanslmayr, S. (2022) Clock time: a foreign measure to brain dynamics. *Nat Hum Behav*, accepted pending minor revs. [preprint](https://doi.org/10.1101/2021.06.09.447763)
+Griffiths, B.J., Zaehle, T., Repplinger, S., Schmitt, F.C., Voges, J., Hanslmayr, S., Staudigl, T. (2022) Rhythmic interactions between the mediodorsal thalamus and prefrontal cortex precede human visual perception. *Nat Comms*, accepted [preprint](https://www.biorxiv.org/content/10.1101/2022.02.07.479362v1)
+
+van Bree, S., Melcon, M., Kolibius, L., Kerren, C., Wimber, M., Hanslmayr, S. (2022) Clock time: a foreign measure to brain dynamics. *Nat Hum Behav*, in press. [preprint](https://doi.org/10.1101/2021.06.09.447763)
 
 2021
 ---
