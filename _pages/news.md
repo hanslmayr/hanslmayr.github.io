@@ -12,8 +12,6 @@ author_profile: true
 <br>
 <br>
 <br>
-<br>
-<br>
 
 **Sander van Bree** has his Brain Time Toolbox paper accepted in *Nature Human Behavior*
 <img align="left" src="https://hanslmayr.github.io/images/paper.jpg" width="200 px" style="padding: 20px">
