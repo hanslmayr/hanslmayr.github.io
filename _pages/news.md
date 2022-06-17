@@ -8,7 +8,7 @@ author_profile: true
 
 <img align="left" src="https://hanslmayr.github.io/images/celebrate.jpg" width="200 px" style="padding: 20px">
 
-**Luca Kolibius** wins second place at PGR symposium on Wednesday for his talk on how neurons code episodic memories. Well done Luca!
+17/06/22 **Luca Kolibius** wins second place at PGR symposium on Wednesday for his talk on how neurons code episodic memories. Well done Luca!
 <br>
 <br>
 <br>
@@ -16,8 +16,9 @@ author_profile: true
 <br>
 <br>
 
-**Sander van Bree** has his Brain Time Toolbox paper accepted in *Nature Human Behavior*
 <img align="left" src="https://hanslmayr.github.io/images/paper.jpg" width="200 px" style="padding: 20px">
+
+12/05/22 **Sander van Bree** has his Brain Time Toolbox paper accepted in *Nature Human Behavior*
 <br>
 <br>
 <br>
@@ -25,8 +26,10 @@ author_profile: true
 <br>
 <br>
 
-**Eleonora Marcantoni** wins competitive PhD funding in MRC Doctoral Training programme on Precision Medicine to work with us on closed loop brain stimulation to improve memory. Congratulations Eleonora and welcome to the team!
 <img align="left" src="https://hanslmayr.github.io/images/celebrate.jpg" width="200 px" style="padding: 20px">
+
+11/03/22 **Eleonora Marcantoni** wins competitive PhD funding in MRC Doctoral Training programme on Precision Medicine to work with us on closed loop brain stimulation to improve memory. Congratulations Eleonora and welcome to the team!
+
 <br>
 <br>
 <br>
