@@ -23,7 +23,7 @@ Roux, F., Parish, G.M., Chelvarajah, R., Rollings, D.T., Sawlani, V., Hamer, H.,
 ---
 Griffiths, B.J., Zaehle, T., Repplinger, S., Schmitt, F.C., Voges, J., Hanslmayr, S., Staudigl, T. (2022) Rhythmic interactions between the mediodorsal thalamus and prefrontal cortex precede human visual perception. *Nat Comms*, 13(1):3736. [paper](https://www.nature.com/articles/s41467-022-31407-z)
 
-van Bree, S., Melcon, M., Kolibius, L., Kerren, C., Wimber, M., Hanslmayr, S. (2022) Clock time: a foreign measure to brain dynamics. *Nat Hum Behav*, Jun 20. [paper] (https://www.nature.com/articles/s41562-022-01386-8)
+van Bree, S., Melcon, M., Kolibius, L., Kerren, C., Wimber, M., Hanslmayr, S. (2022) Clock time: a foreign measure to brain dynamics. *Nat Hum Behav*, Jun 20. [paper](https://www.nature.com/articles/s41562-022-01386-8)
 
 2021
 ---
