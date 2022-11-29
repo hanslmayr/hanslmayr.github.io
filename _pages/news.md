@@ -6,6 +6,18 @@ author_profile: true
 ---
 ---
 
+<img align="left" src="https://hanslmayr.github.io/images/paper.jpg" width="100 px" style="padding: 20px">
+
+29/11/22 **Frederic Roux** has his "neural co-firing supports memory" paper accepted in *eLife*
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
 <img align="left" src="https://hanslmayr.github.io/images/celebrate.jpg" width="100 px" style="padding: 20px">
 
 17/06/22 **Luca Kolibius** wins second place at PGR symposium on Wednesday for his talk on how neurons code episodic memories. Well done Luca!
