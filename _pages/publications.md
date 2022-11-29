@@ -15,14 +15,14 @@ Melcón, M., van Bree, S., Sánchez-Carro, Y., Barreiro-Fernández, L., Kolibius
 
 Kolibius, L.D., Roux, F., Parish, G., Ter Wal, M., Van Der Plas, M., Chelvarajah, R., Sawlani, V., Rollings, D.T. Lang, J., Gollwitzer, S., Walther, K., Hopfengärtner, R., Kreiselmeyer, G., Hamer, H., Staresina, B.P., Wimber, M., Bowman, H., Hanslmayr, S. Hippocampal neurons code individual memory episodes in humans. *bioRxiv*, [preprint](https://doi.org/10.1101/2021.06.28.450149)
 
-Roux, F., Parish, G.M., Chelvarajah, R., Rollings, D.T., Sawlani, V., Hamer, H., Gollwitzer, S., Kreiselmeyer, G., Ter Wal, M. Kolibius, L., Staresina, B., Wimber, M., Self, M.W., Hanslmayr, S. Oscillations support short latency co-firing of neurons during human episodic memory formation. *bioRxiv*, [preprint](https://doi.org/10.1101/2021.01.28.428480)
-
 
 ## Peer-reviewed publications
 
 2022 - in press
 ---
 ---
+Roux, F., Parish, G.M., Chelvarajah, R., Rollings, D.T., Sawlani, V., Hamer, H., Gollwitzer, S., Kreiselmeyer, G., Ter Wal, M. Kolibius, L., Staresina, B., Wimber, M., Self, M.W., Hanslmayr, S. (2022) Oscillations support short latency co-firing of neurons during human episodic memory formation. *eLife*, [preprint](https://doi.org/10.1101/2021.01.28.428480)
+
 Griffiths, B.J., Zaehle, T., Repplinger, S., Schmitt, F.C., Voges, J., Hanslmayr, S., Staudigl, T. (2022) Rhythmic interactions between the mediodorsal thalamus and prefrontal cortex precede human visual perception. *Nat Comms*, 13(1):3736. [paper](https://www.nature.com/articles/s41467-022-31407-z)
 
 van Bree, S., Melcon, M., Kolibius, L., Kerren, C., Wimber, M., Hanslmayr, S. (2022) Clock time: a foreign measure to brain dynamics. *Nat Hum Behav*, Jun 20. [paper](https://www.nature.com/articles/s41562-022-01386-8)
