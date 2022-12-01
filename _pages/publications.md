@@ -21,7 +21,7 @@ Kolibius, L.D., Roux, F., Parish, G., Ter Wal, M., Van Der Plas, M., Chelvarajah
 2022 - in press
 ---
 ---
-Roux, F., Parish, G.M., Chelvarajah, R., Rollings, D.T., Sawlani, V., Hamer, H., Gollwitzer, S., Kreiselmeyer, G., Ter Wal, M. Kolibius, L., Staresina, B., Wimber, M., Self, M.W., Hanslmayr, S. (2022) Oscillations support short latency co-firing of neurons during human episodic memory formation. *eLife*, [preprint](https://doi.org/10.1101/2021.01.28.428480)
+Roux, F., Parish, G.M., Chelvarajah, R., Rollings, D.T., Sawlani, V., Hamer, H., Gollwitzer, S., Kreiselmeyer, G., Ter Wal, M. Kolibius, L., Staresina, B., Wimber, M., Self, M.W., Hanslmayr, S. (2022) Oscillations support short latency co-firing of neurons during human episodic memory formation. *eLife*, [paper](https://elifesciences.org/articles/78109)
 
 Griffiths, B.J., Zaehle, T., Repplinger, S., Schmitt, F.C., Voges, J., Hanslmayr, S., Staudigl, T. (2022) Rhythmic interactions between the mediodorsal thalamus and prefrontal cortex precede human visual perception. *Nat Comms*, 13(1):3736. [paper](https://www.nature.com/articles/s41467-022-31407-z)
 
