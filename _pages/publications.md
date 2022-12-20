@@ -140,7 +140,7 @@ see [pubmed](https://pubmed.ncbi.nlm.nih.gov/?term=%28Hanslmayr%5BAuthor%5D%29+A
 
 ## Book Chapters
 
-Parish, G., Michelmann, S., Hanslmayr, S. (in press) How should I re-reference my intracranial EEG data? In N. Axmacher (Ed) Intracranial EEG for Cognitive Neuroscience, Berlin: Springer. [book chapter](https://hanslmayr.github.io/files/final_27_Chapter_Parish_et_al.pdf) 
+Parish, G., Michelmann, S., Hanslmayr, S. (in press) How should I re-reference my intracranial EEG data? In N. Axmacher (Ed) Intracranial EEG for Cognitive Neuroscience, Berlin: Springer. [pdf](https://hanslmayr.github.io/files/final_27_Chapter_Parish_et_al.pdf) 
 
 Michelmann, S., Griffiths, B.J., Hanslmayr, S. (2022). The role of alpha and beta oscillations in the human EEG during perception and memory processes. In M.W. Miller, P. Gable & E. Bernat (Eds.) The Oxford Handbook of Human EEG Frequency Analysis, New York, NY: Oxford University Press.
 
