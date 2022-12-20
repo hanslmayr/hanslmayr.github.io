@@ -15,14 +15,11 @@ Melcón, M., van Bree, S., Sánchez-Carro, Y., Barreiro-Fernández, L., Kolibius
 
 Kolibius, L.D., Roux, F., Parish, G., Ter Wal, M., Van Der Plas, M., Chelvarajah, R., Sawlani, V., Rollings, D.T. Lang, J., Gollwitzer, S., Walther, K., Hopfengärtner, R., Kreiselmeyer, G., Hamer, H., Staresina, B.P., Wimber, M., Bowman, H., Hanslmayr, S. Hippocampal neurons code individual memory episodes in humans. *bioRxiv*, [preprint](https://doi.org/10.1101/2021.06.28.450149)
 
-
 ## Peer-reviewed publications
 
 2022 - in press
 ---
 ---
-Parish, G., Michelmann, S., Hanslmayr, S. (in press) How should I re-reference my intracranial EEG data? In N. Axmacher (Ed) Intracranial EEG for Cognitive Neuroscience, Berlin: Springer. [book chapter](https://hanslmayr.github.io/files/final_27_Chapter_Parish_et_al.pdf) 
-
 Roux, F., Parish, G.M., Chelvarajah, R., Rollings, D.T., Sawlani, V., Hamer, H., Gollwitzer, S., Kreiselmeyer, G., Ter Wal, M. Kolibius, L., Staresina, B., Wimber, M., Self, M.W., Hanslmayr, S. (2022) Oscillations support short latency co-firing of neurons during human episodic memory formation. *eLife*, [paper](https://elifesciences.org/articles/78109)
 
 Griffiths, B.J., Zaehle, T., Repplinger, S., Schmitt, F.C., Voges, J., Hanslmayr, S., Staudigl, T. (2022) Rhythmic interactions between the mediodorsal thalamus and prefrontal cortex precede human visual perception. *Nat Comms*, 13(1):3736. [paper](https://www.nature.com/articles/s41467-022-31407-z)
@@ -140,3 +137,8 @@ Hanslmayr, S., Staresina, B., Bowman, H. (2016) Oscillations and episodic memory
 Waldhauser, G., Braun, V., Hanslmayr, S. (2016). Episodic memory retrieval relies on very rapid reactivation of sensory information. *J Neurosci*, 36, 251-60.
 
 see [pubmed](https://pubmed.ncbi.nlm.nih.gov/?term=%28Hanslmayr%5BAuthor%5D%29+AND+%28%28%222005%2F01%2F01%22%5BDate+-+Publication%5D+%3A+%222016%2F01%2F01%22%5BDate+-+Publication%5D%29%29&sort=date) for publications pre 2015
+
+## Book Chapters
+
+Parish, G., Michelmann, S., Hanslmayr, S. (in press) How should I re-reference my intracranial EEG data? In N. Axmacher (Ed) Intracranial EEG for Cognitive Neuroscience, Berlin: Springer. [book chapter](https://hanslmayr.github.io/files/final_27_Chapter_Parish_et_al.pdf) 
+
