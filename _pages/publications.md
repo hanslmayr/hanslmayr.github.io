@@ -142,3 +142,16 @@ see [pubmed](https://pubmed.ncbi.nlm.nih.gov/?term=%28Hanslmayr%5BAuthor%5D%29+A
 
 Parish, G., Michelmann, S., Hanslmayr, S. (in press) How should I re-reference my intracranial EEG data? In N. Axmacher (Ed) Intracranial EEG for Cognitive Neuroscience, Berlin: Springer. [book chapter](https://hanslmayr.github.io/files/final_27_Chapter_Parish_et_al.pdf) 
 
+Michelmann, S., Griffiths, B.J., Hanslmayr, S. (2022). The role of alpha and beta oscillations in the human EEG during perception and memory processes. In M.W. Miller, P. Gable & E. Bernat (Eds.) The Oxford Handbook of Human EEG Frequency Analysis, New York, NY: Oxford University Press.
+
+Hanslmayr, S., Jensen, O., Staresina, B. (in press). Brain oscillations in the service of encoding, consolidating and retrieving episodic memories. In M.J. Kahana & A.D. Wagner (Eds.) The Oxford Handbook of Human Memory, New York, NY: Oxford University Press. 
+
+Jensen, O., Hanslmayr, S. (2019) The role of alpha oscillations for attention and working memory. In M.S. Gazzaniga, G.R. Mangun, D. Poeppel (Eds.) The Cognitive Neurosciences, Cambridge, MA: MIT press.
+
+Hanslmayr, S., Fellner, M.C. (2017) Brain oscillations, semantic processing and long-term memory. In M. Mody (Ed.) Neural Mechanisms of Language, New York: Springer.
+
+Waldhauser, G., Hanslmayr, S. (2015). Forgetting – A cognitive neuroscience perspective. In G. Galizia, and D. Shulman (Eds). Forgetting, Jerusalem: Magnes Press.
+
+Shapiro, K.L., Hanslmayr, S. (2014). The role of brain oscillations in temporal attention. In A.C. Nobre and S. Kastner (Eds.), The Oxford Handbook of Attention, Oxford, UK: Oxford University Press.
+
+
