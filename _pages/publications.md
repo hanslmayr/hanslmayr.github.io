@@ -9,18 +9,21 @@ author_profile: true
 
 Wang, D., Shapiro, K.L., Hanslmayr, S. Altering stimulus timing via fast rhythmic sensory stimulation induces STDP-like recall performance in human episodic memory. *bioRxiv*, [preprint](https://www.biorxiv.org/content/10.1101/2022.11.02.514843v1)
 
-Wang, D., Parish, G., Shapiro, K.L., Hanslmayr, S. Interaction between theta-phase and spike-timing dependent plasticity simulates theta induced memory effects. *bioRxiv*, [preprint](https://www.biorxiv.org/content/10.1101/2021.11.24.469900v2) 
-
 Melcón, M., van Bree, S., Sánchez-Carro, Y., Barreiro-Fernández, L., Kolibius, L.D., Alzueta, E., Wimber, M., Capilla, A., Hanslmayr, S. The spotlight of attention turns from rhythmic exploration-exploitation to a stable exploitation state. *bioRxiv*, [preprint](https://doi.org/10.1101/2021.11.18.469122)
 
 Kolibius, L.D., Roux, F., Parish, G., Ter Wal, M., Van Der Plas, M., Chelvarajah, R., Sawlani, V., Rollings, D.T. Lang, J., Gollwitzer, S., Walther, K., Hopfengärtner, R., Kreiselmeyer, G., Hamer, H., Staresina, B.P., Wimber, M., Bowman, H., Hanslmayr, S. Hippocampal neurons code individual memory episodes in humans. *bioRxiv*, [preprint](https://doi.org/10.1101/2021.06.28.450149)
 
 ## Peer-reviewed publications
 
-2022 - in press
+2023 - in press
 ---
 ---
-Roux, F., Parish, G.M., Chelvarajah, R., Rollings, D.T., Sawlani, V., Hamer, H., Gollwitzer, S., Kreiselmeyer, G., Ter Wal, M. Kolibius, L., Staresina, B., Wimber, M., Self, M.W., Hanslmayr, S. (2022) Oscillations support short latency co-firing of neurons during human episodic memory formation. *eLife*, [paper](https://elifesciences.org/articles/78109)
+Wang, D., Parish, G., Shapiro, K.L., Hanslmayr, S. Interaction between theta-phase and spike-timing dependent plasticity simulates theta induced memory effects. *eNeuro*, accepted. [preprint](https://www.biorxiv.org/content/10.1101/2021.11.24.469900v2) 
+
+2022
+---
+---
+Roux, F., Parish, G.M., Chelvarajah, R., Rollings, D.T., Sawlani, V., Hamer, H., Gollwitzer, S., Kreiselmeyer, G., Ter Wal, M. Kolibius, L., Staresina, B., Wimber, M., Self, M.W., Hanslmayr, S. (2022) Oscillations support short latency co-firing of neurons during human episodic memory formation. *eLife*, Nov 30;11:e78109. [paper](https://elifesciences.org/articles/78109)
 
 Griffiths, B.J., Zaehle, T., Repplinger, S., Schmitt, F.C., Voges, J., Hanslmayr, S., Staudigl, T. (2022) Rhythmic interactions between the mediodorsal thalamus and prefrontal cortex precede human visual perception. *Nat Comms*, 13(1):3736. [paper](https://www.nature.com/articles/s41467-022-31407-z)
 
