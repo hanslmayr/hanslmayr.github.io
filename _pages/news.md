@@ -6,9 +6,13 @@ author_profile: true
 ---
 ---
 
+<img align="left" src="https://hanslmayr.github.io/images/New2team.png" width="100 px" style="padding: 20px">
+
+15/02/23 **Li Cheng** just joined our team as a PhD student. She will be working on closed loop stimulation to improve memory using OPM-MEG, in a collaboration with Dr Robin Ince (Glasgow) and Prof. Matt Brookes (Nottingham). Exciting times ahead. Welcome Li!!!!
+
 <img align="left" src="https://hanslmayr.github.io/images/paper.jpg" width="100 px" style="padding: 20px">
 
-29/11/22 **Danying Wang** has her paper ***Interaction between theta-phase and spike-timing dependent plasticity simulates theta induced memory effects*** paper accepted in *eNeuro*
+13/02/23 **Danying Wang** has her paper ***Interaction between theta-phase and spike-timing dependent plasticity simulates theta induced memory effects*** paper accepted in *eNeuro*
 <br>
 <br>
 <br>
