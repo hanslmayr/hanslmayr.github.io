@@ -8,6 +8,16 @@ author_profile: true
 
 <img align="left" src="https://hanslmayr.github.io/images/paper.jpg" width="100 px" style="padding: 20px">
 
+29/11/22 **Danying Wang** has her paper ***Interaction between theta-phase and spike-timing dependent plasticity simulates theta induced memory effects*** paper accepted in *eNeuro*
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<img align="left" src="https://hanslmayr.github.io/images/paper.jpg" width="100 px" style="padding: 20px">
+
 29/11/22 **Frederic Roux** has his "neural co-firing supports memory" paper accepted in *eLife*
 <br>
 <br>
