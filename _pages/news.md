@@ -9,6 +9,10 @@ author_profile: true
 <img align="left" src="https://hanslmayr.github.io/images/New2team.png" width="100 px" style="padding: 20px">
 
 15/02/23 **Li Cheng** just joined our team as a PhD student. She will be working on closed loop stimulation to improve memory using OPM-MEG, in a collaboration with Dr Robin Ince (Glasgow) and Prof. Matt Brookes (Nottingham). Exciting times ahead. Welcome Li!!!!
+<br>
+<br>
+<br>
+<br>
 
 <img align="left" src="https://hanslmayr.github.io/images/paper.jpg" width="100 px" style="padding: 20px">
 
