@@ -20,7 +20,7 @@ Kolibius, L.D., Roux, F., Parish, G., Ter Wal, M., Van Der Plas, M., Chelvarajah
 2023 - in press
 ---
 ---
-Wang, D., Parish, G., Shapiro, K.L., Hanslmayr, S. Interaction between theta-phase and spike-timing dependent plasticity simulates theta induced memory effects. *eNeuro*, March 10(3), 1-18. [paper]([https://www.biorxiv.org/content/10.1101/2021.11.24.469900v2](https://www.eneuro.org/content/eneuro/10/3/ENEURO.0333-22.2023.full.pdf) 
+Wang, D., Parish, G., Shapiro, K.L., Hanslmayr, S. Interaction between theta-phase and spike-timing dependent plasticity simulates theta induced memory effects. *eNeuro*, March 10(3), 1-18. [paper](https://www.eneuro.org/content/eneuro/10/3/ENEURO.0333-22.2023.full.pdf) 
 
 2022
 ---
