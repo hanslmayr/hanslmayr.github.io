@@ -7,6 +7,8 @@ author_profile: true
 
 ## Preprints
 
+Chen, Q., McAllister, C.J., Elliott, M.T., Shapiro, K.L., Hanslmayr, S. Beta bursts correlate with synchronization of movements to rhythmic sounds. *bioRxiv*, [preprint](https://www.biorxiv.org/content/10.1101/2023.03.14.532353v1)
+
 Wang, D., Shapiro, K.L., Hanslmayr, S. Altering stimulus timing via fast rhythmic sensory stimulation induces STDP-like recall performance in human episodic memory. *bioRxiv*, [preprint](https://www.biorxiv.org/content/10.1101/2022.11.02.514843v1)
 
 Melcón, M., van Bree, S., Sánchez-Carro, Y., Barreiro-Fernández, L., Kolibius, L.D., Alzueta, E., Wimber, M., Capilla, A., Hanslmayr, S. The spotlight of attention turns from rhythmic exploration-exploitation to a stable exploitation state. *bioRxiv*, [preprint](https://doi.org/10.1101/2021.11.18.469122)
@@ -18,7 +20,7 @@ Kolibius, L.D., Roux, F., Parish, G., Ter Wal, M., Van Der Plas, M., Chelvarajah
 2023 - in press
 ---
 ---
-Wang, D., Parish, G., Shapiro, K.L., Hanslmayr, S. Interaction between theta-phase and spike-timing dependent plasticity simulates theta induced memory effects. *eNeuro*, accepted. [preprint](https://www.biorxiv.org/content/10.1101/2021.11.24.469900v2) 
+Wang, D., Parish, G., Shapiro, K.L., Hanslmayr, S. Interaction between theta-phase and spike-timing dependent plasticity simulates theta induced memory effects. *eNeuro*, March 10(3), 1-18. [paper](https://www.eneuro.org/content/eneuro/10/3/ENEURO.0333-22.2023.full.pdf) 
 
 2022
 ---
