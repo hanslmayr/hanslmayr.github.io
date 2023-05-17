@@ -8,7 +8,7 @@ author_profile: true
 
 <img align="left" src="https://hanslmayr.github.io/images/PikPng.com_graduation-png_3265519.png" width="100 px" style="padding: 20px">
 
-17/05/23 **Mr. Luca Kolibius** just became **Dr. Luca Kolibius** after passing his Viva without corrections for his thesis *The hippocampus as an indexing machine of episodic memory*. Congratulations, and a special thanks to his external examiners Prof. Tim Behrens (Oxford) and Prof. Edwin Roberston. Next destination for Luca is the lab of Prof. Josh Jacobs at Columbia University in NYC, where he will continue his exciting work on what information human hippocampal neurons code.
+17/05/23 **Mr. Luca Kolibius** just became **Dr. Luca Kolibius** after passing his Viva without corrections for his thesis *The hippocampus as an indexing machine of episodic memory*. Congratulations, and a special thanks to his examiners *Prof. Tim Behrens* (Oxford) and *Prof. Edwin Roberston* (Glasgow). Next destination for Luca is the lab of *Prof. Josh Jacobs* at Columbia University in NYC.
 <br>
 <br>
 <br>
