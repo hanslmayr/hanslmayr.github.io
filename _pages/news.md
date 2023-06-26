@@ -16,6 +16,8 @@ author_profile: true
 <br>
 <br>
 
+<img align="left" src="https://hanslmayr.github.io/images/paper.jpg" width="100 px" style="padding: 20px">
+
 14/06/23 **Luca Kolibius** has his paper ***Hippocampal neurons code individual memory episodes in humans*** paper accepted in *Nature Human Behaviour*
 <br>
 <br>
