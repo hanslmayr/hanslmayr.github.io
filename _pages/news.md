@@ -6,6 +6,15 @@ author_profile: true
 ---
 ---
 
+<img align="left" src="https://hanslmayr.github.io/images/PikPng.com_graduation-png_3265519.png" width="100 px" style="padding: 20px">
+
+17/05/23 **Mr. Luca Kolibius** just became **Dr. Luca Kolibius** after passing his Viva without corrections for his thesis *The hippocampus as an indexing machine of episodic memory*. Congratulations, and a special thanks to his examiners *Prof. Tim Behrens* (Oxford) and *Prof. Edwin Roberston* (Glasgow). Next destination for Luca is the lab of *Prof. Josh Jacobs* at Columbia University in NYC.
+<br>
+<br>
+<br>
+<br>
+
+
 <img align="left" src="https://hanslmayr.github.io/images/New2team.png" width="100 px" style="padding: 20px">
 
 15/02/23 **Li Cheng** just joined our team as a PhD student. She will be working on closed loop stimulation to improve memory using OPM-MEG, in a collaboration with Dr Robin Ince (Glasgow) and Prof. Matt Brookes (Nottingham). Exciting times ahead. Welcome Li!!!!
