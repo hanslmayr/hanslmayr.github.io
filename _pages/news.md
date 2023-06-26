@@ -6,6 +6,25 @@ author_profile: true
 ---
 ---
 
+<img align="left" src="https://hanslmayr.github.io/images/paper.jpg" width="100 px" style="padding: 20px">
+
+26/06/23 **Danying Wang** has her paper ***Altering stimulus timing via fast rhythmic sensory stimulation induces STDP-like recall performance in human episodic memory*** paper accepted in *Current Biology*
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+14/06/23 **Luca Kolibius** has his paper ***Hippocampal neurons code individual memory episodes in humans*** paper accepted in *Nature Human Behaviour*
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+
 <img align="left" src="https://hanslmayr.github.io/images/PikPng.com_graduation-png_3265519.png" width="100 px" style="padding: 20px">
 
 17/05/23 **Mr. Luca Kolibius** just became **Dr. Luca Kolibius** after passing his Viva without corrections for his thesis *The hippocampus as an indexing machine of episodic memory*. Congratulations, and a special thanks to his examiners *Prof. Tim Behrens* (Oxford) and *Prof. Edwin Roberston* (Glasgow). Next destination for Luca is the lab of *Prof. Josh Jacobs* at Columbia University in NYC.
