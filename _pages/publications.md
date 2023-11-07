@@ -17,9 +17,9 @@ Melcón, M., van Bree, S., Sánchez-Carro, Y., Barreiro-Fernández, L., Kolibius
 2023 - in press
 ---
 ---
-Wang, D., Shapiro, K.L., Hanslmayr, S. (in press) Altering stimulus timing via fast rhythmic sensory stimulation induces STDP-like recall performance in human episodic memory. Accepted at *Curr Biol*, [preprint](https://www.biorxiv.org/content/10.1101/2022.11.02.514843v1)
+Wang, D., Shapiro, K.L., Hanslmayr, S. (2023) Altering stimulus timing via fast rhythmic sensory stimulation induces STDP-like recall performance in human episodic memory. *Curr Biol*, Aug 7;33(15):3279-3288.e7. [paper](https://www.cell.com/current-biology/fulltext/S0960-9822(23)00847-3?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0960982223008473%3Fshowall%3Dtrue)
 
-Kolibius, L.D., Roux, F., Parish, G., Ter Wal, M., Van Der Plas, M., Chelvarajah, R., Sawlani, V., Rollings, D.T. Lang, J., Gollwitzer, S., Walther, K., Hopfengärtner, R., Kreiselmeyer, G., Hamer, H., Staresina, B.P., Wimber, M., Bowman, H., Hanslmayr, S. (in press) Hippocampal neurons code individual memory episodes in humans. Accepted at *Nat Hum Behav*, [preprint](https://doi.org/10.1101/2021.06.28.450149)
+Kolibius, L.D., Roux, F., Parish, G., Ter Wal, M., Van Der Plas, M., Chelvarajah, R., Sawlani, V., Rollings, D.T. Lang, J., Gollwitzer, S., Walther, K., Hopfengärtner, R., Kreiselmeyer, G., Hamer, H., Staresina, B.P., Wimber, M., Bowman, H., Hanslmayr, S. (2023) Hippocampal neurons code individual memory episodes in humans. *Nat Hum Behav*, Oct 5. [paper](https://www.nature.com/articles/s41562-023-01706-6)
 
 Wang, D., Parish, G., Shapiro, K.L., Hanslmayr, S. (2023) Interaction between theta-phase and spike-timing dependent plasticity simulates theta induced memory effects. *eNeuro*, March 10(3), 1-18. [paper](https://www.eneuro.org/content/eneuro/10/3/ENEURO.0333-22.2023.full.pdf) 
 
