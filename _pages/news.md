@@ -8,6 +8,17 @@ author_profile: true
 
 <img align="left" src="https://hanslmayr.github.io/images/paper.jpg" width="100 px" style="padding: 20px">
 
+26/06/23 New paper alert! **Danying Wang, Eleonora Marcantoni, Andrew Clouter, Kim Shapiro and Simon Hanslmayr** *Rhythmic sensory stimulation as a non-invasive tool to study plasticity mechanisms in human episodic memory*** paper accepted in *Current Opinion in Behavioral Sciences*
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+
+<img align="left" src="https://hanslmayr.github.io/images/paper.jpg" width="100 px" style="padding: 20px">
+
 26/06/23 **Danying Wang** has her paper ***Altering stimulus timing via fast rhythmic sensory stimulation induces STDP-like recall performance in human episodic memory*** paper accepted in *Current Biology*
 <br>
 <br>

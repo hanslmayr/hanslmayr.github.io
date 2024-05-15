@@ -14,7 +14,12 @@ Melcón, M., van Bree, S., Sánchez-Carro, Y., Barreiro-Fernández, L., Kolibius
 
 ## Peer-reviewed publications
 
-2023 - in press
+2024 - in press
+---
+---
+Wang, D., Marcantoni, E., Clouter, A., Shapiro, K.L., Hanslmayr, S. (in press) Rhythmic sensory stimulation as a non-1 invasive tool to study plasticity mechanisms in human episodic memory. *Curr Opin Behav Sci*, accepted.
+
+2023 
 ---
 ---
 Wang, D., Shapiro, K.L., Hanslmayr, S. (2023) Altering stimulus timing via fast rhythmic sensory stimulation induces STDP-like recall performance in human episodic memory. *Curr Biol*, Aug 7;33(15):3279-3288.e7. [paper](https://www.cell.com/current-biology/fulltext/S0960-9822(23)00847-3?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0960982223008473%3Fshowall%3Dtrue)
