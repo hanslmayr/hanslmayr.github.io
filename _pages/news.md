@@ -8,6 +8,37 @@ author_profile: true
 
 <img align="left" src="https://hanslmayr.github.io/images/paper.jpg" width="100 px" style="padding: 20px">
 
+29/09/24 New paper alert! **A study led by our collaborators at the NiN in Amsterdam Doris Dijksterhuis, Matt Self and Pieter Roelfsema has just been accepted** *Pronouns reactivate conceptual representations in human hippocampal neurons*** paper accepted in *Science*
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+02/09/24 **Migxia Zhang**, Associate Professor at the Institute of Psychology, Chinese Academy of Sciences, with a focus on motivation, learning, funded by the CSC (China) joins our lab for a year to work with us on hippocampal theta oscillations, reward/punishment, memory and curiousity. Congratulations Mingxia and welcome to Glasgow!
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+Credits: New Team icon taken from <a href="https://www.flaticon.com/free-icons/work" title="work icons">Work icons created by Freepik - Flaticon</a>
+
+
+19/06/24 **Ying Yao** wins competitive PhD funding from the CSC (China) to work with us on phase resets of hippocampal theta oscillations and memory. Congratulations Ying and welcome to the team!
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+Credits: New Team icon taken from <a href="https://www.flaticon.com/free-icons/work" title="work icons">Work icons created by Freepik - Flaticon</a>
+
+<img align="left" src="https://hanslmayr.github.io/images/paper.jpg" width="100 px" style="padding: 20px">
+
 26/06/23 New paper alert! **Danying Wang, Eleonora Marcantoni, Andrew Clouter, Kim Shapiro and Simon Hanslmayr** *Rhythmic sensory stimulation as a non-invasive tool to study plasticity mechanisms in human episodic memory*** paper accepted in *Current Opinion in Behavioral Sciences*
 <br>
 <br>
