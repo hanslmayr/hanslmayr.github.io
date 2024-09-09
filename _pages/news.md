@@ -16,6 +16,8 @@ author_profile: true
 <br>
 <br>
 
+<img align="left" src="https://hanslmayr.github.io/images/celebrate.jpg" width="100 px" style="padding: 20px">
+
 02/09/24 **Migxia Zhang**, Associate Professor at the Institute of Psychology, Chinese Academy of Sciences, with a focus on motivation, learning, funded by the CSC (China) joins our lab for a year to work with us on hippocampal theta oscillations, reward/punishment, memory and curiousity. Congratulations Mingxia and welcome to Glasgow!
 <br>
 <br>
@@ -24,8 +26,7 @@ author_profile: true
 <br>
 <br>
 
-Credits: New Team icon taken from <a href="https://www.flaticon.com/free-icons/work" title="work icons">Work icons created by Freepik - Flaticon</a>
-
+<img align="left" src="https://hanslmayr.github.io/images/celebrate.jpg" width="100 px" style="padding: 20px">
 
 19/06/24 **Ying Yao** wins competitive PhD funding from the CSC (China) to work with us on phase resets of hippocampal theta oscillations and memory. Congratulations Ying and welcome to the team!
 <br>
@@ -34,8 +35,6 @@ Credits: New Team icon taken from <a href="https://www.flaticon.com/free-icons/w
 <br>
 <br>
 <br>
-
-Credits: New Team icon taken from <a href="https://www.flaticon.com/free-icons/work" title="work icons">Work icons created by Freepik - Flaticon</a>
 
 <img align="left" src="https://hanslmayr.github.io/images/paper.jpg" width="100 px" style="padding: 20px">
 
