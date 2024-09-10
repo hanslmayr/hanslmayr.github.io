@@ -8,7 +8,7 @@ author_profile: true
 
 <img align="left" src="https://hanslmayr.github.io/images/celebrate.jpg" width="100 px" style="padding: 20px">
 
-29/09/24 New paper alert! **A study led by our collaborators at the NiN in Amsterdam Doris Dijksterhuis, Matt Self and Pieter Roelfsema has just been accepted at Science!** The paper is titled: *Pronouns reactivate conceptual representations in human hippocampal neurons*** 
+29/09/24 New paper alert! **A study led by our collaborators Doris Dijksterhuis, Matt Self and Pieter Roelfsema at the NiN in Amsterdam has just been accepted at Science!** The paper is titled: *Pronouns reactivate conceptual representations in human hippocampal neurons*** 
 <br>
 <br>
 <br>
