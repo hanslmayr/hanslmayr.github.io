@@ -5,7 +5,18 @@ permalink: /publications/
 author_profile: true
 ---
 
-## Preprints
+## Preprints/Submitted papers
+
+Kolibius, L.D., Josselyn, S.A., Hanslmayr, S. On the origin of memory neurons in the human hippocampus.  
+
+Biau, E., Wang, D., Park, H., Jensen, O., Hanslmayr, S. Neocortical and hippocampal theta oscillations track audiovisual integration and replay of speech memories. *biorxiv*, [preprint]
+
+Trajkovic, J., Veniero, D., Hanslmayr, S., Palva, S., Cruz, G., Romei, V., Thut, G. Top-down and bottom-up interactions rely on nested brain oscillations. *bioRxiv*, [preprint](https://www.biorxiv.org/content/10.1101/2024.05.23.595462v1) 
+
+Kahn, M., Chan, D., Wang, D., Geigenmuller, U., Blanco-Duque, C., Murdock, M.H., Suk, H.J.,  Jackson, B., Jakkamsetti, V., Niederst, E.,  Brown, E.N., Boyden, E.S., McHugh, T., Adaikkan, C., Singer, A.C., Hanslmayr, S., Tsai, L.H. Gamma sensory stimulation and effects on the brain. *bioRxiv*, [preprint](https://www.biorxiv.org/content/10.1101/2023.10.30.564197v1) 
+
+Dijksterhuis, D. E., Self, M. W., Possel, J. K., Peters, J. C., vanStraaten, E. C. W., Idema, S.; Baaijen, J. C., van der Salm, S. M. A., Aarnoutse, E. J., vanKlink, N. C. E., van Eijsden, P., Hanslmayr, S., Chelvarajah, R., Roux, F., Kolibius, L. D., Sawlani, V., Rollings, D. T., Dehaene, D., Roelfsema, P. R. Pronouns reactivate conceptual representations in human hippocampal neurons. *bioRxiv*, [preprint](https://www.biorxiv.org/content/10.1101/2024.06.23.600044v2) 
+
 Duecker, K., Shapiro, K.L., Hanslmayr, S., Wolfe, J., Pan, Y., Jensen, O. Alpha oscillations support the efficiency of guided visual search by inhibiting both target and distractor features in early visual cortex. *bioRxiv*, [preprint](https://www.biorxiv.org/content/10.1101/2023.08.03.551520v1) 
 
 Chen, Q., McAllister, C.J., Elliott, M.T., Shapiro, K.L., Hanslmayr, S. Beta bursts correlate with synchronization of movements to rhythmic sounds. *bioRxiv*, [preprint](https://www.biorxiv.org/content/10.1101/2023.03.14.532353v1)
@@ -17,7 +28,7 @@ Melcón, M., van Bree, S., Sánchez-Carro, Y., Barreiro-Fernández, L., Kolibius
 2024 - in press
 ---
 ---
-Wang, D., Marcantoni, E., Clouter, A., Shapiro, K.L., Hanslmayr, S. (in press) Rhythmic sensory stimulation as a non-1 invasive tool to study plasticity mechanisms in human episodic memory. *Curr Opin Behav Sci*, accepted.
+Wang, D., Marcantoni, E., Clouter, A., Shapiro, K.L., Hanslmayr, S. (2024) Rhythmic sensory stimulation as a non-1 invasive tool to study plasticity mechanisms in human episodic memory. *Curr Opin Behav Sci*, 58, 101412. [paper](https://www.sciencedirect.com/science/article/pii/S2352154624000639)
 
 2023 
 ---
