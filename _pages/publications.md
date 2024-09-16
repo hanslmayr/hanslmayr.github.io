@@ -9,7 +9,7 @@ author_profile: true
 
 Kolibius, L.D., Josselyn, S.A., Hanslmayr, S. On the origin of memory neurons in the human hippocampus.  
 
-Biau, E., Wang, D., Park, H., Jensen, O., Hanslmayr, S. Neocortical and hippocampal theta oscillations track audiovisual integration and replay of speech memories. *biorxiv*, [preprint]
+Biau, E., Wang, D., Park, H., Jensen, O., Hanslmayr, S. Neocortical and hippocampal theta oscillations track audiovisual integration and replay of speech memories. *biorxiv*, [preprint](https://www.biorxiv.org/content/10.1101/2024.09.13.612424v1)
 
 Trajkovic, J., Veniero, D., Hanslmayr, S., Palva, S., Cruz, G., Romei, V., Thut, G. Top-down and bottom-up interactions rely on nested brain oscillations. *bioRxiv*, [preprint](https://www.biorxiv.org/content/10.1101/2024.05.23.595462v1) 
 
