@@ -15,8 +15,6 @@ Trajkovic, J., Veniero, D., Hanslmayr, S., Palva, S., Cruz, G., Romei, V., Thut,
 
 Kahn, M., Chan, D., Wang, D., Geigenmuller, U., Blanco-Duque, C., Murdock, M.H., Suk, H.J.,  Jackson, B., Jakkamsetti, V., Niederst, E.,  Brown, E.N., Boyden, E.S., McHugh, T., Adaikkan, C., Singer, A.C., Hanslmayr, S., Tsai, L.H. Gamma sensory stimulation and effects on the brain. *bioRxiv*, [preprint](https://www.biorxiv.org/content/10.1101/2023.10.30.564197v1) 
 
-Dijksterhuis, D. E., Self, M. W., Possel, J. K., Peters, J. C., vanStraaten, E. C. W., Idema, S.; Baaijen, J. C., van der Salm, S. M. A., Aarnoutse, E. J., vanKlink, N. C. E., van Eijsden, P., Hanslmayr, S., Chelvarajah, R., Roux, F., Kolibius, L. D., Sawlani, V., Rollings, D. T., Dehaene, D., Roelfsema, P. R. Pronouns reactivate conceptual representations in human hippocampal neurons. *bioRxiv*, [preprint](https://www.biorxiv.org/content/10.1101/2024.06.23.600044v2) 
-
 Duecker, K., Shapiro, K.L., Hanslmayr, S., Wolfe, J., Pan, Y., Jensen, O. Alpha oscillations support the efficiency of guided visual search by inhibiting both target and distractor features in early visual cortex. *bioRxiv*, [preprint](https://www.biorxiv.org/content/10.1101/2023.08.03.551520v1) 
 
 Chen, Q., McAllister, C.J., Elliott, M.T., Shapiro, K.L., Hanslmayr, S. Beta bursts correlate with synchronization of movements to rhythmic sounds. *bioRxiv*, [preprint](https://www.biorxiv.org/content/10.1101/2023.03.14.532353v1)
@@ -28,6 +26,10 @@ Melcón, M., van Bree, S., Sánchez-Carro, Y., Barreiro-Fernández, L., Kolibius
 2024 - in press
 ---
 ---
+Hanslmayr, S. (2024) The promises and challenges of neurotechnology to improve human health and cognition. *PLoS Biology*, in press. 
+
+Dijksterhuis, D. E., Self, M. W., Possel, J. K., Peters, J. C., vanStraaten, E. C. W., Idema, S.; Baaijen, J. C., van der Salm, S. M. A., Aarnoutse, E. J., vanKlink, N. C. E., van Eijsden, P., Hanslmayr, S., Chelvarajah, R., Roux, F., Kolibius, L. D., Sawlani, V., Rollings, D. T., Dehaene, D., Roelfsema, P. R. (2024) Pronouns reactivate conceptual representations in human hippocampal neurons. *Science*, 385(6716), 1478-1484. [paper](https://www.science.org/doi/10.1126/science.adr2813) 
+
 Wang, D., Marcantoni, E., Clouter, A., Shapiro, K.L., Hanslmayr, S. (2024) Rhythmic sensory stimulation as a non-1 invasive tool to study plasticity mechanisms in human episodic memory. *Curr Opin Behav Sci*, 58, 101412. [paper](https://www.sciencedirect.com/science/article/pii/S2352154624000639)
 
 2023 
