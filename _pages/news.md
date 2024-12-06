@@ -6,6 +6,17 @@ author_profile: true
 ---
 ---
 
+<img align="left" src="https://hanslmayr.github.io/images/paper.jpg" width="100 px" style="padding: 20px">
+
+06/12/24 New pre-print alert! **A study led by Mircea van der Plas investigating the effects of intracranial electrical stimulation on neural firing and hippocampo-cortical connectivity is now on Biorxiv** The manuscript is titled: *Characterizing neuronal and population responses to electrical stimulation in the human hippocampo-cortical network*** Check it out --> [pre-print](https://www.biorxiv.org/content/10.1101/2024.11.28.625915v1) 
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+
 <img align="left" src="https://hanslmayr.github.io/images/celebrate.jpg" width="100 px" style="padding: 20px">
 
 26/09/24 New paper alert! **A study led by our collaborators Doris Dijksterhuis, Matt Self and Pieter Roelfsema at the NiN in Amsterdam has just been published at Science!** The paper is titled: *Pronouns reactivate conceptual representations in human hippocampal neurons*** Check it out --> [paper](https://www.science.org/doi/10.1126/science.adr2813) 
