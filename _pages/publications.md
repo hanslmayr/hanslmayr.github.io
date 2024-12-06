@@ -7,6 +7,8 @@ author_profile: true
 
 ## Preprints/Submitted papers
 
+van der Plas, Roux, F., Chelvarajah, R., Sawlani, V., Staresina, B.P., Wimber, M., Rollings, D.T., Hanslmayr, S., Characterizing neuronal and population responses to electrical stimulation in the human hippocampo-cortical network. [preprint](https://www.biorxiv.org/content/10.1101/2024.11.28.625915v1)
+
 Kolibius, L.D., Josselyn, S.A., Hanslmayr, S. On the origin of memory neurons in the human hippocampus.  
 
 Biau, E., Wang, D., Park, H., Jensen, O., Hanslmayr, S. Neocortical and hippocampal theta oscillations track audiovisual integration and replay of speech memories. *biorxiv*, [preprint](https://www.biorxiv.org/content/10.1101/2024.09.13.612424v1)
