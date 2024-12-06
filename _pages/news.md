@@ -6,6 +6,16 @@ author_profile: true
 ---
 ---
 
+<img align="left" src="https://hanslmayr.github.io/images/celebrate.jpg" width="100 px" style="padding: 20px">
+
+06/12/24 Successfull Grant Application! **We got a project grant from the Bial foundation together with [Cassandra Sampaio-Baptista](https://www.gla.ac.uk/schools/psychologyneuroscience/staff/cassandrasampaiobaptista/).** The aims of the project are to investigate whether extended multi-sensory rhythmic stimulation induces changes in behaviour, brain structure, and brain function in humans consistent with a prominent plasticity mechanism (Spike-Timing-Dependent-Plasticity). Exciting times ahead for the Sampaio-Baptista and Hanslmayr labs!
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
 <img align="left" src="https://hanslmayr.github.io/images/paper.jpg" width="100 px" style="padding: 20px">
 
 06/12/24 New pre-print alert! **A study led by Mircea van der Plas investigating the effects of intracranial electrical stimulation on neural firing and hippocampo-cortical connectivity is now on Biorxiv** The manuscript is titled: *Characterizing neuronal and population responses to electrical stimulation in the human hippocampo-cortical network*** Check it out --> [pre-print](https://www.biorxiv.org/content/10.1101/2024.11.28.625915v1) 
