@@ -28,7 +28,7 @@ Melcón, M., van Bree, S., Sánchez-Carro, Y., Barreiro-Fernández, L., Kolibius
 2024 - in press
 ---
 ---
-Hanslmayr, S. (2024) The promises and challenges of neurotechnology to improve human health and cognition. *PLoS Biology*, in press. 
+Hanslmayr, S. (2024) The promises and challenges of neurotechnology to improve human health and cognition. *PLoS Biology*, 10.1371/journal.pbio.3002903. [paper](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3002903). 
 
 Dijksterhuis, D. E., Self, M. W., Possel, J. K., Peters, J. C., vanStraaten, E. C. W., Idema, S.; Baaijen, J. C., van der Salm, S. M. A., Aarnoutse, E. J., vanKlink, N. C. E., van Eijsden, P., Hanslmayr, S., Chelvarajah, R., Roux, F., Kolibius, L. D., Sawlani, V., Rollings, D. T., Dehaene, D., Roelfsema, P. R. (2024) Pronouns reactivate conceptual representations in human hippocampal neurons. *Science*, 385(6716), 1478-1484. [paper](https://www.science.org/doi/10.1126/science.adr2813) 
 
