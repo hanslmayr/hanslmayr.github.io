@@ -9,11 +9,7 @@ author_profile: true
 
 van der Plas, Roux, F., Chelvarajah, R., Sawlani, V., Staresina, B.P., Wimber, M., Rollings, D.T., Hanslmayr, S., Characterizing neuronal and population responses to electrical stimulation in the human hippocampo-cortical network. [preprint](https://www.biorxiv.org/content/10.1101/2024.11.28.625915v1)
 
-Kolibius, L.D., Josselyn, S.A., Hanslmayr, S. On the origin of memory neurons in the human hippocampus.  
-
 Biau, E., Wang, D., Park, H., Jensen, O., Hanslmayr, S. Neocortical and hippocampal theta oscillations track audiovisual integration and replay of speech memories. *biorxiv*, [preprint](https://www.biorxiv.org/content/10.1101/2024.09.13.612424v1)
-
-Trajkovic, J., Veniero, D., Hanslmayr, S., Palva, S., Cruz, G., Romei, V., Thut, G. Top-down and bottom-up interactions rely on nested brain oscillations. *bioRxiv*, [preprint](https://www.biorxiv.org/content/10.1101/2024.05.23.595462v1) 
 
 Kahn, M., Chan, D., Wang, D., Geigenmuller, U., Blanco-Duque, C., Murdock, M.H., Suk, H.J.,  Jackson, B., Jakkamsetti, V., Niederst, E.,  Brown, E.N., Boyden, E.S., McHugh, T., Adaikkan, C., Singer, A.C., Hanslmayr, S., Tsai, L.H. Gamma sensory stimulation and effects on the brain. *bioRxiv*, [preprint](https://www.biorxiv.org/content/10.1101/2023.10.30.564197v1) 
 
@@ -25,7 +21,14 @@ Melcón, M., van Bree, S., Sánchez-Carro, Y., Barreiro-Fernández, L., Kolibius
 
 ## Peer-reviewed publications
 
-2024 - in press
+2025 - in press
+---
+---
+Kolibius, L.D., Josselyn, S.A., Hanslmayr, S. (2025) On the origin of memory neurons in the human hippocampus. Manuscript accepted in *Trends Cogn Sci*.
+
+Trajkovic, J., Veniero, D., Hanslmayr, S., Palva, S., Cruz, G., Romei, V., Thut, G. (2025) Top-down and bottom-up interactions rely on nested brain oscillations. Manuscript accepted in *PLoS Biology*. *bioRxiv*, [preprint](https://www.biorxiv.org/content/10.1101/2024.05.23.595462v1) 
+
+2024 
 ---
 ---
 Hanslmayr, S. (2024) The promises and challenges of neurotechnology to improve human health and cognition. *PLoS Biology*, 10.1371/journal.pbio.3002903. [paper](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3002903). 
