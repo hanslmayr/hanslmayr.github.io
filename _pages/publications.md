@@ -27,7 +27,7 @@ Melcón, M., van Bree, S., Sánchez-Carro, Y., Barreiro-Fernández, L., Kolibius
 
 Kolibius, L.D., Josselyn, S.A., Hanslmayr, S. (2025) On the origin of memory neurons in the human hippocampus. *Trends Cogn Sci*, 10.1016/j.tics.2025.01.013. [paper](https://doi.org/10.1016/j.tics.2025.01.013). 
 
-Trajkovic, J., Veniero, D., Hanslmayr, S., Palva, S., Cruz, G., Romei, V., Thut, G. (2025) Top-down and bottom-up interactions rely on nested brain oscillations. *PLoS Biology*, in press, *bioRxiv*, [preprint](https://www.biorxiv.org/content/10.1101/2024.05.23.595462v1) 
+Trajkovic, J., Veniero, D., Hanslmayr, S., Palva, S., Cruz, G., Romei, V., Thut, G. (2025) Top-down and bottom-up interactions rely on nested brain oscillations. *PLoS Biology*, in press, [preprint](https://www.biorxiv.org/content/10.1101/2024.05.23.595462v1) 
 
 2024 
 ---
