@@ -17,16 +17,17 @@ Duecker, K., Shapiro, K.L., Hanslmayr, S., Wolfe, J., Pan, Y., Jensen, O. Alpha 
 
 Chen, Q., McAllister, C.J., Elliott, M.T., Shapiro, K.L., Hanslmayr, S. Beta bursts correlate with synchronization of movements to rhythmic sounds. *bioRxiv*, [preprint](https://www.biorxiv.org/content/10.1101/2023.03.14.532353v1)
 
-Melcón, M., van Bree, S., Sánchez-Carro, Y., Barreiro-Fernández, L., Kolibius, L.D., Alzueta, E., Wimber, M., Capilla, A., Hanslmayr, S. The spotlight of attention turns from rhythmic exploration-exploitation to a stable exploitation state. *bioRxiv*, [preprint](https://doi.org/10.1101/2021.11.18.469122)
-
 ## Peer-reviewed publications
 
 2025 - in press
 ---
 ---
-Kolibius, L.D., Josselyn, S.A., Hanslmayr, S. (2025) On the origin of memory neurons in the human hippocampus. Manuscript accepted in *Trends Cogn Sci*.
 
-Trajkovic, J., Veniero, D., Hanslmayr, S., Palva, S., Cruz, G., Romei, V., Thut, G. (2025) Top-down and bottom-up interactions rely on nested brain oscillations. Manuscript accepted in *PLoS Biology*. *bioRxiv*, [preprint](https://www.biorxiv.org/content/10.1101/2024.05.23.595462v1) 
+Melcón, M., van Bree, S., Sánchez-Carro, Y., Barreiro-Fernández, L., Kolibius, L.D., Alzueta, E., Wimber, M., Capilla, A., Hanslmayr, S. (2025) The spotlight of attention turns from rhythmic exploration-exploitation to a stable exploitation state. PLoS One, in press. [preprint](https://doi.org/10.1101/2021.11.18.469122)
+
+Kolibius, L.D., Josselyn, S.A., Hanslmayr, S. (2025) On the origin of memory neurons in the human hippocampus. *Trends Cogn Sci*, 10.1016/j.tics.2025.01.013. [paper](https://doi.org/10.1016/j.tics.2025.01.013). 
+
+Trajkovic, J., Veniero, D., Hanslmayr, S., Palva, S., Cruz, G., Romei, V., Thut, G. (2025) Top-down and bottom-up interactions rely on nested brain oscillations. *PLoS Biology*, in press, *bioRxiv*, [preprint](https://www.biorxiv.org/content/10.1101/2024.05.23.595462v1) 
 
 2024 
 ---
