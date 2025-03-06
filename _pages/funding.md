@@ -8,6 +8,15 @@ author_profile: true
 ### Our research has been made possible by the following funding agencies which either support us currently, or have supported us in the past. 
 <br>
 
+## Bial foundation, Portugal
+<img align="left" src="https://hanslmayr.github.io/images/Bial_logo.jpg" width="200 px" style="padding: 20px">
+<br>
+<br>
+<br>
+<br>
+<br>
+
+
 ## Deutsche Forschungsgemeinsschaft, Germany
 <img align="left" src="https://hanslmayr.github.io/images/DFG_EN_logo.jpg" width="200 px" style="padding: 20px">
 <br>
