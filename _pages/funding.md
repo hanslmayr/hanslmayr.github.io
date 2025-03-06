@@ -9,7 +9,7 @@ author_profile: true
 <br>
 
 ## Bial foundation, Portugal
-<img align="left" src="https://hanslmayr.github.io/images/Bial_logo.png" width="150 px" style="padding: 20px">
+<img align="left" src="https://hanslmayr.github.io/images/Bial_logo.png" width="180 px" style="padding: 20px">
 <br>
 <br>
 <br>
