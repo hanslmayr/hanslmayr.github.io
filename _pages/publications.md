@@ -9,8 +9,6 @@ author_profile: true
 
 van der Plas, Roux, F., Chelvarajah, R., Sawlani, V., Staresina, B.P., Wimber, M., Rollings, D.T., Hanslmayr, S., Characterizing neuronal and population responses to electrical stimulation in the human hippocampo-cortical network. [preprint](https://www.biorxiv.org/content/10.1101/2024.11.28.625915v1)
 
-Biau, E., Wang, D., Park, H., Jensen, O., Hanslmayr, S. Neocortical and hippocampal theta oscillations track audiovisual integration and replay of speech memories. *biorxiv*, [preprint](https://www.biorxiv.org/content/10.1101/2024.09.13.612424v1)
-
 Kahn, M., Chan, D., Wang, D., Geigenmuller, U., Blanco-Duque, C., Murdock, M.H., Suk, H.J.,  Jackson, B., Jakkamsetti, V., Niederst, E.,  Brown, E.N., Boyden, E.S., McHugh, T., Adaikkan, C., Singer, A.C., Hanslmayr, S., Tsai, L.H. Gamma sensory stimulation and effects on the brain. *bioRxiv*, [preprint](https://www.biorxiv.org/content/10.1101/2023.10.30.564197v1) 
 
 Duecker, K., Shapiro, K.L., Hanslmayr, S., Wolfe, J., Pan, Y., Jensen, O. Alpha oscillations support the efficiency of guided visual search by inhibiting both target and distractor features in early visual cortex. *bioRxiv*, [preprint](https://www.biorxiv.org/content/10.1101/2023.08.03.551520v1) 
@@ -22,6 +20,8 @@ Chen, Q., McAllister, C.J., Elliott, M.T., Shapiro, K.L., Hanslmayr, S. Beta bur
 2025 - in press
 ---
 ---
+
+Biau, E., Wang, D., Park, H., Jensen, O., Hanslmayr, S. (2025) Neocortical and hippocampal theta oscillations track audiovisual integration and replay of speech memories. J Neurosci, accepted, [preprint](https://www.biorxiv.org/content/10.1101/2024.09.13.612424v1)
 
 Melcón, M., van Bree, S., Sánchez-Carro, Y., Barreiro-Fernández, L., Kolibius, L.D., Alzueta, E., Wimber, M., Capilla, A., Hanslmayr, S. (2025) The spotlight of attention turns from rhythmic exploration-exploitation to a stable exploitation state. PLoS One, in press. [preprint](https://doi.org/10.1101/2021.11.18.469122)
 
