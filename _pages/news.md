@@ -8,6 +8,26 @@ author_profile: true
 
 <img align="left" src="https://hanslmayr.github.io/images/paper.jpg" width="100 px" style="padding: 20px">
 
+22/04/25 New paper alert! **Our paper investigating Top-down and bottom-up interactions with TMS-EEG, led by the amazing Jelena Trajkovic and in collaboration with Gregor Thut, Vincenzo Romei and Satu Palva, is out now in PLoS Biology!** The manuscript is titled: *Top-down and bottom-up interactions rely on nested brain oscillations to shape rhythmic visual attention sampling*** Check it out --> [paper](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3002688) 
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<img align="left" src="https://hanslmayr.github.io/images/paper.jpg" width="100 px" style="padding: 20px">
+
+22/04/25 New paper alert! **Our paper investigating the temporal dyanmics of spatial attention using MVPA analysis of EEG data, led by the fantastic Maria Melcon, is out now in PLoS One!** The manuscript is titled: *Evidence for a constant occipital spotlight of attention using MVPA on EEG data*** Check it out --> [paper](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0320233) 
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<img align="left" src="https://hanslmayr.github.io/images/paper.jpg" width="100 px" style="padding: 20px">
+
 06/03/25 New paper alert! **Our theoretical paper which describes how concept neurons in the human hippocampus may evolve from episode specific neurons is out now in Trends in Cognitive Sciences. This was a fun collaboration, with Luca Kolibius at the helm and with Sheena A. Josselyn (Toronto) on board as well.** The manuscript is titled: *On the origin of memory neurons in the human hippocampus*** Check it out --> [paper](https://www.sciencedirect.com/science/article/pii/S1364661325000312?utm_campaign=STMJ_219742_AUTH_SERV_PA&utm_medium=email&utm_acid=169677926&SIS_ID=&dgcid=STMJ_219742_AUTH_SERV_PA&CMX_ID=&utm_in=DM547969&utm_source=AC_) 
 <br>
 <br>
