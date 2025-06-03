@@ -11,8 +11,6 @@ van der Plas, Roux, F., Chelvarajah, R., Sawlani, V., Staresina, B.P., Wimber, M
 
 Kahn, M., Chan, D., Wang, D., Geigenmuller, U., Blanco-Duque, C., Murdock, M.H., Suk, H.J.,  Jackson, B., Jakkamsetti, V., Niederst, E.,  Brown, E.N., Boyden, E.S., McHugh, T., Adaikkan, C., Singer, A.C., Hanslmayr, S., Tsai, L.H. Gamma sensory stimulation and effects on the brain. *bioRxiv*, [preprint](https://www.biorxiv.org/content/10.1101/2023.10.30.564197v1) 
 
-Duecker, K., Shapiro, K.L., Hanslmayr, S., Wolfe, J., Pan, Y., Jensen, O. Alpha oscillations support the efficiency of guided visual search by inhibiting both target and distractor features in early visual cortex. *bioRxiv*, [preprint](https://www.biorxiv.org/content/10.1101/2023.08.03.551520v1) 
-
 Chen, Q., McAllister, C.J., Elliott, M.T., Shapiro, K.L., Hanslmayr, S. Beta bursts correlate with synchronization of movements to rhythmic sounds. *bioRxiv*, [preprint](https://www.biorxiv.org/content/10.1101/2023.03.14.532353v1)
 
 ## Peer-reviewed publications
@@ -20,6 +18,8 @@ Chen, Q., McAllister, C.J., Elliott, M.T., Shapiro, K.L., Hanslmayr, S. Beta bur
 2025 - in press
 ---
 ---
+
+Duecker, K., Shapiro, K.L., Hanslmayr, S., Griffiths, B.J., Pan, Y., Wolfe, J., Jensen, O. (2025) Guided visual search is associated with target boosting and distractor suppression in early visual cortex. Accepted for publication at Communications Biology
 
 Biau, E., Wang, D., Park, H., Jensen, O., Hanslmayr, S. (2025) Neocortical and hippocampal theta oscillations track audiovisual integration and replay of speech memories. J Neurosci, accepted, [preprint](https://www.biorxiv.org/content/10.1101/2024.09.13.612424v1)
 
