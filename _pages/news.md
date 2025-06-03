@@ -15,6 +15,7 @@ author_profile: true
 <br>
 <br>
 <br>
+<img align="left" src="https://hanslmayr.github.io/images/paper.jpg" width="100 px" style="padding: 20px">
 
 03/06/25 New paper alert! Our paper entitled **Guided visual search is associated with target boosting and distractor suppression in early visual cortex**, led by the talented Katharina Duecker and in collaboration with Ole Jensen, Jeremy Wolfe, Kim Shapiro, Ben Griffiths and Yali Pan has been accepted at Communications Biology!
 <br>
