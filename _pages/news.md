@@ -6,6 +6,24 @@ author_profile: true
 ---
 ---
 
+<img align="left" src="https://hanslmayr.github.io/images/celebrate.jpg" width="100 px" style="padding: 20px">
+
+03/06/25 Successfull Grant Application! Congratulations to **Xiangshu Wu** who has been awarded a CSC scholarship, which will enable her to join our team in autumn 2025 to investigate the interplay between hippocampal neurons and neocortical LFP during episodic memory processes. 
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+03/06/25 New paper alert! Our paper entitled **Guided visual search is associated with target boosting and distractor suppression in early visual cortex**, led by the talented Katharina Duecker and in collaboration with Ole Jensen, Jeremy Wolfe, Kim Shapiro, Ben Griffiths and Yali Pan has been accepted at Communications Biology!
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
 <img align="left" src="https://hanslmayr.github.io/images/paper.jpg" width="100 px" style="padding: 20px">
 
 22/04/25 New paper alert! **Our paper investigating Top-down and bottom-up interactions with TMS-EEG, led by the amazing Jelena Trajkovic and in collaboration with Gregor Thut, Vincenzo Romei and Satu Palva, is out now in PLoS Biology!** The manuscript is titled: *Top-down and bottom-up interactions rely on nested brain oscillations to shape rhythmic visual attention sampling*** Check it out --> [paper](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3002688) 
