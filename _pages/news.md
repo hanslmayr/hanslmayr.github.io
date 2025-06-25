@@ -8,8 +8,17 @@ author_profile: true
 
 <img align="left" src="https://hanslmayr.github.io/images/celebrate.jpg" width="100 px" style="padding: 20px">
 
-17/06/25 Successfull Grant Application! Congratulations to **Simon Hanslmayr** who has been awarded an ERC Advanced Grant, which will enable him to investigate how hippocampal neurons code episodic memories in humans. You can read more details about the project in [this post](https://www.gla.ac.uk/news/headline_1188542_en.html).  
+25/06/25 Successfull Grant Application! Congratulations to **Yuxin Li** who has been awarded a highly competitive CSC scholarship, which will allow her to do a fully funded PhD in our team on the interaction between prediction errors and episodic memory. Congratulations Yuxin!
 <br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<img align="left" src="https://hanslmayr.github.io/images/celebrate.jpg" width="100 px" style="padding: 20px">
+
+17/06/25 Successfull Grant Application! Congratulations to **Simon Hanslmayr** who has been awarded an ERC Advanced Grant, which will enable him to investigate how hippocampal neurons code episodic memories in humans. You can read more details about the project in [this post](https://www.gla.ac.uk/news/headline_1188542_en.html).  
 <br>
 <br>
 <br>
