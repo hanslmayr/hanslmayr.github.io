@@ -5,6 +5,10 @@ permalink: /publications/
 author_profile: true
 ---
 
+## Accepted Stage 1 Registered Reports
+Bergmann, Zoefel, Herrmann, Violante, Grossman, Hassan, Kasten, Siebner, Stecher, Marcantoni, Okyere, Wynn, Learmonth, Kaul, Norouzi, Battelli, Contò, Ellena, Tosi, Fawcett, Zendel, Bjekić, Filipović, Živanović, Liu, Zhou, Dyke, Veniero, Huang, Yan, Ma, Scandola, Fusco, Petković, Dell'Omo, Aglioti, Zaehle, Rufener, Sale, Bland, Ten Oever, Leunissen, Schuhmann, Sack, Pavlov, Kasanov, Kosachenko, Diedrich, Jiang, Christiansen, Jadidi, Tomasevic, Beck, Cai, Cui, Ang, Frings, Wöstmann, Obleser, Bäumer, Martín-Arévalo, Lupiáñez, Ponce, Mittner, Csifcsák, Groot, Antonenko, Flöel, Wagner-Gillen, Cespón, Cid-Fernández, Díaz, Gundlach, Hartwigsen, Sehm, Gharabaghi, Menrath, Woller, Schneider, Fiene, Misselhorn, Ruhnau, Pack, Krause, Vieira, Arteaga, Battaglini, Contemori, Castelo-Branco, Duarte, Castelhano, Martin, Soekadar, Haslacher, Colucci, Vermehren, Peekhaus, Apfel, Nasr, Jonany, He, Gao, Hu, Ivry, Reber, Labruna, Merrick, Thayer-Pham, Jooß, Ortiz de Zarate Garcia, Ziemann, Bortoletto, Tarantino, Ionta, Valero-Cabré, Leto,Poux ,Bruno, Di Dona, Stottmeier, López-Candeda, González-Villar, Sampaio, van der Plas, Shen, Kong ,Turner, Howard, Tonolli, Thut, Thielscher, Rhodes, ,Miniussi, Antal, Hanslmayr. (2025) The tACS challenge: Does 10 Hz tACS rhythmically modulate visual perception in humans? Accepted at Nature Human Behaviour.
+
+
 ## Preprints/Submitted papers
 
 van der Plas, Roux, F., Chelvarajah, R., Sawlani, V., Staresina, B.P., Wimber, M., Rollings, D.T., Hanslmayr, S., Characterizing neuronal and population responses to electrical stimulation in the human hippocampo-cortical network. [preprint](https://www.biorxiv.org/content/10.1101/2024.11.28.625915v1)
