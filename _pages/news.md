@@ -8,6 +8,16 @@ author_profile: true
 
 <img align="left" src="https://hanslmayr.github.io/images/celebrate.jpg" width="100 px" style="padding: 20px">
 
+17/06/25 Successfull Grant Application! Congratulations to **Simon Hanslmayr** who has been awarded an ERC Advanced Grant, which will enable him to investigate how hippocampal neurons code episodic memories in humans. You can read more details about the project in [this post](https://www.gla.ac.uk/news/headline_1188542_en.html).  
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<img align="left" src="https://hanslmayr.github.io/images/celebrate.jpg" width="100 px" style="padding: 20px">
+
 03/06/25 Successfull Grant Application! Congratulations to **Xiangshu Wu** who has been awarded a CSC scholarship, which will enable her to join our team in autumn 2025 to investigate the interplay between hippocampal neurons and neocortical LFP during episodic memory processes. 
 <br>
 <br>
