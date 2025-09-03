@@ -6,6 +6,16 @@ author_profile: true
 ---
 ---
 
+<img align="left" src="https://hanslmayr.github.io/images/Ele_MEGUK.jpg" width="100 px" style="padding: 20px">
+
+25/06/25 Best talk award for **Eleonora Marcantoni**! Eleonora Marcantoni was awarded the Best Talk Prize at MEG UKI 2025, held in London this July. Her talk, "Enhancing memory in humans via MEG-closed-loop Rhythmic Sensory Stimulation (RSS) tuned to the frequency of hippocampal theta oscillations", presented exciting new results on the feasibility of detecting deep brain activity using non-invasive neuroimaging methods. Congratulations Ele!
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
 <img align="left" src="https://hanslmayr.github.io/images/celebrate.jpg" width="100 px" style="padding: 20px">
 
 25/06/25 Successfull Grant Application! Congratulations to **Yuxin Li** who has been awarded a highly competitive CSC scholarship, which will allow her to do a fully funded PhD in our team on the interaction between prediction errors and episodic memory. Congratulations Yuxin!
