@@ -6,6 +6,74 @@ author_profile: true
 ---
 ---
 
+<img align="left" src="https://hanslmayr.github.io/images/Ele_MEGUK.jpg" width="100 px" style="padding: 20px">
+
+25/06/25 Best talk award for **Eleonora Marcantoni**! Eleonora Marcantoni was awarded the Best Talk Prize at MEG UKI 2025, held in London this July. Her talk, "Enhancing memory in humans via MEG-closed-loop Rhythmic Sensory Stimulation (RSS) tuned to the frequency of hippocampal theta oscillations", presented exciting new results on the feasibility of detecting deep brain activity using non-invasive neuroimaging methods. Congratulations Ele!
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<img align="left" src="https://hanslmayr.github.io/images/celebrate.jpg" width="100 px" style="padding: 20px">
+
+25/06/25 Successfull Grant Application! Congratulations to **Yuxin Li** who has been awarded a highly competitive CSC scholarship, which will allow her to do a fully funded PhD in our team on the interaction between prediction errors and episodic memory. Congratulations Yuxin!
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<img align="left" src="https://hanslmayr.github.io/images/celebrate.jpg" width="100 px" style="padding: 20px">
+
+17/06/25 Successfull Grant Application! Congratulations to **Simon Hanslmayr** who has been awarded an ERC Advanced Grant, which will enable him to investigate how hippocampal neurons code episodic memories in humans. You can read more details about the project in [this post](https://www.gla.ac.uk/news/headline_1188542_en.html).  
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<img align="left" src="https://hanslmayr.github.io/images/celebrate.jpg" width="100 px" style="padding: 20px">
+
+03/06/25 Successfull Grant Application! Congratulations to **Xiangshu Wu** who has been awarded a CSC scholarship, which will enable her to join our team in autumn 2025 to investigate the interplay between hippocampal neurons and neocortical LFP during episodic memory processes. 
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<img align="left" src="https://hanslmayr.github.io/images/paper.jpg" width="100 px" style="padding: 20px">
+
+03/06/25 New paper alert! Our paper entitled **Guided visual search is associated with target boosting and distractor suppression in early visual cortex**, led by the talented Katharina Duecker and in collaboration with Ole Jensen, Jeremy Wolfe, Kim Shapiro, Ben Griffiths and Yali Pan has been accepted at Communications Biology!
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<img align="left" src="https://hanslmayr.github.io/images/paper.jpg" width="100 px" style="padding: 20px">
+
+22/04/25 New paper alert! **Our paper investigating Top-down and bottom-up interactions with TMS-EEG, led by the amazing Jelena Trajkovic and in collaboration with Gregor Thut, Vincenzo Romei and Satu Palva, is out now in PLoS Biology!** The manuscript is titled: *Top-down and bottom-up interactions rely on nested brain oscillations to shape rhythmic visual attention sampling*** Check it out --> [paper](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3002688) 
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<img align="left" src="https://hanslmayr.github.io/images/paper.jpg" width="100 px" style="padding: 20px">
+
+22/04/25 New paper alert! **Our paper investigating the temporal dyanmics of spatial attention using MVPA analysis of EEG data, led by the fantastic Maria Melcon, is out now in PLoS One!** The manuscript is titled: *Evidence for a constant occipital spotlight of attention using MVPA on EEG data*** Check it out --> [paper](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0320233) 
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
 <img align="left" src="https://hanslmayr.github.io/images/paper.jpg" width="100 px" style="padding: 20px">
 
 06/03/25 New paper alert! **Our theoretical paper which describes how concept neurons in the human hippocampus may evolve from episode specific neurons is out now in Trends in Cognitive Sciences. This was a fun collaboration, with Luca Kolibius at the helm and with Sheena A. Josselyn (Toronto) on board as well.** The manuscript is titled: *On the origin of memory neurons in the human hippocampus*** Check it out --> [paper](https://www.sciencedirect.com/science/article/pii/S1364661325000312?utm_campaign=STMJ_219742_AUTH_SERV_PA&utm_medium=email&utm_acid=169677926&SIS_ID=&dgcid=STMJ_219742_AUTH_SERV_PA&CMX_ID=&utm_in=DM547969&utm_source=AC_) 

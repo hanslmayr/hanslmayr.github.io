@@ -5,15 +5,15 @@ permalink: /publications/
 author_profile: true
 ---
 
+## Accepted Stage 1 Registered Reports
+Bergmann, Zoefel, Herrmann, Violante, Grossman, Hassan, Kasten, Siebner, Stecher, Marcantoni, Okyere, Wynn, Learmonth, Kaul, Norouzi, Battelli, Contò, Ellena, Tosi, Fawcett, Zendel, Bjekić, Filipović, Živanović, Liu, Zhou, Dyke, Veniero, Huang, Yan, Ma, Scandola, Fusco, Petković, Dell'Omo, Aglioti, Zaehle, Rufener, Sale, Bland, Ten Oever, Leunissen, Schuhmann, Sack, Pavlov, Kasanov, Kosachenko, Diedrich, Jiang, Christiansen, Jadidi, Tomasevic, Beck, Cai, Cui, Ang, Frings, Wöstmann, Obleser, Bäumer, Martín-Arévalo, Lupiáñez, Ponce, Mittner, Csifcsák, Groot, Antonenko, Flöel, Wagner-Gillen, Cespón, Cid-Fernández, Díaz, Gundlach, Hartwigsen, Sehm, Gharabaghi, Menrath, Woller, Schneider, Fiene, Misselhorn, Ruhnau, Pack, Krause, Vieira, Arteaga, Battaglini, Contemori, Castelo-Branco, Duarte, Castelhano, Martin, Soekadar, Haslacher, Colucci, Vermehren, Peekhaus, Apfel, Nasr, Jonany, He, Gao, Hu, Ivry, Reber, Labruna, Merrick, Thayer-Pham, Jooß, Ortiz de Zarate Garcia, Ziemann, Bortoletto, Tarantino, Ionta, Valero-Cabré, Leto,Poux ,Bruno, Di Dona, Stottmeier, López-Candeda, González-Villar, Sampaio, van der Plas, Shen, Kong ,Turner, Howard, Tonolli, Thut, Thielscher, Rhodes, ,Miniussi, Antal, Hanslmayr. (2025) The tACS challenge: Does 10 Hz tACS rhythmically modulate visual perception in humans? Accepted at Nature Human Behaviour. [Link](https://tacschallenge.github.io/)
+
+
 ## Preprints/Submitted papers
 
 van der Plas, Roux, F., Chelvarajah, R., Sawlani, V., Staresina, B.P., Wimber, M., Rollings, D.T., Hanslmayr, S., Characterizing neuronal and population responses to electrical stimulation in the human hippocampo-cortical network. [preprint](https://www.biorxiv.org/content/10.1101/2024.11.28.625915v1)
 
-Biau, E., Wang, D., Park, H., Jensen, O., Hanslmayr, S. Neocortical and hippocampal theta oscillations track audiovisual integration and replay of speech memories. *biorxiv*, [preprint](https://www.biorxiv.org/content/10.1101/2024.09.13.612424v1)
-
 Kahn, M., Chan, D., Wang, D., Geigenmuller, U., Blanco-Duque, C., Murdock, M.H., Suk, H.J.,  Jackson, B., Jakkamsetti, V., Niederst, E.,  Brown, E.N., Boyden, E.S., McHugh, T., Adaikkan, C., Singer, A.C., Hanslmayr, S., Tsai, L.H. Gamma sensory stimulation and effects on the brain. *bioRxiv*, [preprint](https://www.biorxiv.org/content/10.1101/2023.10.30.564197v1) 
-
-Duecker, K., Shapiro, K.L., Hanslmayr, S., Wolfe, J., Pan, Y., Jensen, O. Alpha oscillations support the efficiency of guided visual search by inhibiting both target and distractor features in early visual cortex. *bioRxiv*, [preprint](https://www.biorxiv.org/content/10.1101/2023.08.03.551520v1) 
 
 Chen, Q., McAllister, C.J., Elliott, M.T., Shapiro, K.L., Hanslmayr, S. Beta bursts correlate with synchronization of movements to rhythmic sounds. *bioRxiv*, [preprint](https://www.biorxiv.org/content/10.1101/2023.03.14.532353v1)
 
@@ -23,11 +23,15 @@ Chen, Q., McAllister, C.J., Elliott, M.T., Shapiro, K.L., Hanslmayr, S. Beta bur
 ---
 ---
 
-Melcón, M., van Bree, S., Sánchez-Carro, Y., Barreiro-Fernández, L., Kolibius, L.D., Alzueta, E., Wimber, M., Capilla, A., Hanslmayr, S. (2025) The spotlight of attention turns from rhythmic exploration-exploitation to a stable exploitation state. PLoS One, in press. [preprint](https://doi.org/10.1101/2021.11.18.469122)
+Duecker, K., Shapiro, K.L., Hanslmayr, S., Griffiths, B.J., Pan, Y., Wolfe, J., Jensen, O. (2025) Guided visual search is associated with target boosting and distractor suppression in early visual cortex. Accepted for publication at Communications Biology
+
+Biau, E., Wang, D., Park, H., Jensen, O., Hanslmayr, S. (2025) Neocortical and hippocampal theta oscillations track audiovisual integration and replay of speech memories. J Neurosci, accepted, [preprint](https://www.biorxiv.org/content/10.1101/2024.09.13.612424v1)
+
+Melcón, M., van Bree, S., Sánchez-Carro, Y., Barreiro-Fernández, L., Kolibius, L.D., Alzueta, E., Wimber, M., Capilla, A., Hanslmayr, S. (2025) The spotlight of attention turns from rhythmic exploration-exploitation to a stable exploitation state. PLoS One, 20(3):e0320233. doi: 10.1371/journal.pone.0320233. [paper](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0320233)
 
 Kolibius, L.D., Josselyn, S.A., Hanslmayr, S. (2025) On the origin of memory neurons in the human hippocampus. *Trends Cogn Sci*, 10.1016/j.tics.2025.01.013. [paper](https://doi.org/10.1016/j.tics.2025.01.013). 
 
-Trajkovic, J., Veniero, D., Hanslmayr, S., Palva, S., Cruz, G., Romei, V., Thut, G. (2025) Top-down and bottom-up interactions rely on nested brain oscillations. *PLoS Biology*, in press, [preprint](https://www.biorxiv.org/content/10.1101/2024.05.23.595462v1) 
+Trajkovic, J., Veniero, D., Hanslmayr, S., Palva, S., Cruz, G., Romei, V., Thut, G. (2025) Top-down and bottom-up interactions rely on nested brain oscillations. *PLoS Biology*, in press, [paper](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3002688) 
 
 2024 
 ---
