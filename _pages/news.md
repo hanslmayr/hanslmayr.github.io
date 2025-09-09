@@ -6,9 +6,22 @@ author_profile: true
 ---
 ---
 
-<img align="left" src="https://hanslmayr.github.io/images/Ele_MEGUK.jpg" width="100 px" style="padding: 20px">
+<img align="left" src="https://hanslmayr.github.io/images/paper.jpg" width="100 px" style="padding: 20px">
 
-25/06/25 Best talk award for **Eleonora Marcantoni**! Eleonora Marcantoni was awarded the Best Talk Prize at MEG UKI 2025, held in London this July. Her talk, "Enhancing memory in humans via MEG-closed-loop Rhythmic Sensory Stimulation (RSS) tuned to the frequency of hippocampal theta oscillations", presented exciting new results on the feasibility of detecting deep brain activity using non-invasive neuroimaging methods. Congratulations Ele!
+03/09/25 New paper alert! Our paper entitled **VR-based Gamma Sensory Stimulation: A feasibility study.**, led by our industry partner Clarity is out in Scientific Reports! Read all about it [here](https://www.nature.com/articles/s41598-025-13725-6).  
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<img align="left" src="https://hanslmayr.github.io/images/Ele_MEGUK.jpg" width="200 px" style="padding: 20px">
+
+20/07/25 Best talk award for **Eleonora Marcantoni**! Eleonora Marcantoni was awarded the Best Talk Prize at MEG UKI 2025, held in London this July. Her talk, "Enhancing memory in humans via MEG-closed-loop Rhythmic Sensory Stimulation (RSS) tuned to the frequency of hippocampal theta oscillations", presented exciting new results on the feasibility of detecting deep brain activity using non-invasive neuroimaging methods. Congratulations Ele!
+<br>
+<br>
+<br>
 <br>
 <br>
 <br>

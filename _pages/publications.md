@@ -23,9 +23,11 @@ Chen, Q., McAllister, C.J., Elliott, M.T., Shapiro, K.L., Hanslmayr, S. Beta bur
 ---
 ---
 
-Duecker, K., Shapiro, K.L., Hanslmayr, S., Griffiths, B.J., Pan, Y., Wolfe, J., Jensen, O. (2025) Guided visual search is associated with target boosting and distractor suppression in early visual cortex. Accepted for publication at Communications Biology
+Reis, C., Azizollahi, H., Headley, G., Navarro, S., Hanslmayr, S., Clouter, A., Zanto, T., Certain, R. (2025) VR-based Gamma Sensory Stimulation: A feasibility study. Sci Rep 15, 28491. [link](https://doi.org/10.1038/s41598-025-13725-6). 
 
-Biau, E., Wang, D., Park, H., Jensen, O., Hanslmayr, S. (2025) Neocortical and hippocampal theta oscillations track audiovisual integration and replay of speech memories. J Neurosci, accepted, [preprint](https://www.biorxiv.org/content/10.1101/2024.09.13.612424v1)
+Duecker, K., Shapiro, K.L., Hanslmayr, S., Griffiths, B.J., Pan, Y., Wolfe, J., Jensen, O. (2025) Guided visual search is associated with target boosting and distractor suppression in early visual cortex. Commun Biol, 8(1):912. [link](https://www.nature.com/articles/s42003-025-08321-3)
+
+Biau, E., Wang, D., Park, H., Jensen, O., Hanslmayr, S. (2025) Neocortical and hippocampal theta oscillations track audiovisual integration and replay of speech memories. J Neurosci, 45(21):e1797242025. [link](https://www.jneurosci.org/content/45/21/e1797242025.long)
 
 Melcón, M., van Bree, S., Sánchez-Carro, Y., Barreiro-Fernández, L., Kolibius, L.D., Alzueta, E., Wimber, M., Capilla, A., Hanslmayr, S. (2025) The spotlight of attention turns from rhythmic exploration-exploitation to a stable exploitation state. PLoS One, 20(3):e0320233. doi: 10.1371/journal.pone.0320233. [paper](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0320233)
 
