@@ -6,7 +6,7 @@ author_profile: true
 ---
 ---
 
-<img align="left" src="https://hanslmayr.github.io/images/paper.jpg" width="100 px" style="padding: 20px">
+<img align="left" src="https://hanslmayr.github.io/images/paper.jpg" width="150 px" style="padding: 20px">
 
 15/09/25 New paper alert! Our paper entitled **Characterizing neuronal and population responses to electrical stimulation in the human hippocampo-cortical network.**, led by Mircea van der Plas just got accepted at *Brain Stimulation*! While the paper is being prepared for publication you can read the preprint [here](https://www.biorxiv.org/content/10.1101/2024.11.28.625915v1).  
 <br>
