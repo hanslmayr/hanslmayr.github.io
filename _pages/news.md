@@ -16,7 +16,7 @@ author_profile: true
 <br>
 <br>
 
-<img align="left" src="https://hanslmayr.github.io/images/paper.jpg" width="100 px" style="padding: 20px">
+<img align="left" src="https://hanslmayr.github.io/images/paper.jpg" width="150 px" style="padding: 20px">
 
 03/09/25 New paper alert! Our paper entitled **VR-based Gamma Sensory Stimulation: A feasibility study.**, led by our industry partner Clarity is out in Scientific Reports! Read all about it [here](https://www.nature.com/articles/s41598-025-13725-6).  
 <br>
