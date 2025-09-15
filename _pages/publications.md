@@ -33,6 +33,8 @@ Reis, C., Azizollahi, H., Headley, G., Navarro, S., Hanslmayr, S., Clouter, A., 
 
 Duecker, K., Shapiro, K.L., Hanslmayr, S., Griffiths, B.J., Pan, Y., Wolfe, J., Jensen, O. (2025) Guided visual search is associated with target boosting and distractor suppression in early visual cortex. *Commun Biol*, 8(1):912. [link](https://www.nature.com/articles/s42003-025-08321-3)
 
+Kolibius, L.D., Josselyn, S.A., Hanslmayr, S. (2025) And yet, the hippocampus codes conjunctively. *Trends Cogn Sci*, 29(8):689-690. doi: 10.1016/j.tics.2025.06.013 [link](https://www.cell.com/trends/cognitive-sciences/fulltext/S1364-6613(25)00159-7?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS1364661325001597%3Fshowall%3Dtrue)
+
 Biau, E., Wang, D., Park, H., Jensen, O., Hanslmayr, S. (2025) Neocortical and hippocampal theta oscillations track audiovisual integration and replay of speech memories. *J Neurosci*, 45(21):e1797242025. [link](https://www.jneurosci.org/content/45/21/e1797242025.long)
 
 Melcón, M., van Bree, S., Sánchez-Carro, Y., Barreiro-Fernández, L., Kolibius, L.D., Alzueta, E., Wimber, M., Capilla, A., Hanslmayr, S. (2025) The spotlight of attention turns from rhythmic exploration-exploitation to a stable exploitation state. *PLoS One*, 20(3):e0320233. doi: 10.1371/journal.pone.0320233. [paper](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0320233)
