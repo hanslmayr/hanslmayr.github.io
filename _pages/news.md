@@ -8,6 +8,16 @@ author_profile: true
 
 <img align="left" src="https://hanslmayr.github.io/images/paper.jpg" width="100 px" style="padding: 20px">
 
+15/09/25 New paper alert! Our paper entitled **Characterizing neuronal and population responses to electrical stimulation in the human hippocampo-cortical network.**, led by Mircea van der Plas just got accepted at *Brain Stimulation*! While the paper is being prepared for publication you can read the preprint [here](https://www.biorxiv.org/content/10.1101/2024.11.28.625915v1).  
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+<img align="left" src="https://hanslmayr.github.io/images/paper.jpg" width="100 px" style="padding: 20px">
+
 03/09/25 New paper alert! Our paper entitled **VR-based Gamma Sensory Stimulation: A feasibility study.**, led by our industry partner Clarity is out in Scientific Reports! Read all about it [here](https://www.nature.com/articles/s41598-025-13725-6).  
 <br>
 <br>
