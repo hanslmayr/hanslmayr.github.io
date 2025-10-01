@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Neurotechnology, Cognition and Oscillations Lab Webpage"
 title_separator          : "-"
-name                     : &name "NoT CoOLab"
+name                     : &name "NoT CoOL"
 description              : &description "Webpage of the Neurotechnology, Cognition and Oscillations Lab at the University of Glasgow"
 url                      : https://hanslmayr.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
