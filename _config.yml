@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Cognition and Oscillations Lab Webpage"
+title                    : "Neurotechnology, Cognition and Oscillations Lab Webpage"
 title_separator          : "-"
-name                     : &name "CoOLab"
-description              : &description "Webpage of the Cognition and Oscillations Lab at the University of Glasgow"
+name                     : &name "NoT CoOL"
+description              : &description "Webpage of the Neurotechnology, Cognition and Oscillations Lab at the University of Glasgow"
 url                      : https://hanslmayr.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "hanslmayr.github.io/"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "CoOLab"
+  name             : "NoT CoOL"
   avatar           : "Lab_Logo_simpl.jpg"
   bio              : ""
   location         : "Glasgow, UK"
