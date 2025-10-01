@@ -27,7 +27,7 @@ Chen, Q., McAllister, C.J., Elliott, M.T., Shapiro, K.L., Hanslmayr, S. Beta bur
 ---
 ---
 
-van der Plas, M., Roux, F., Chelvarajah, R., Sawlani, V., Staresina, B.P., Wimber, M., Rollings, D.T., Hanslmayr, S. (2025) Characterizing neuronal and population responses to electrical stimulation in the human hippocampo-cortical network. *Brain Stim*, accepted. [preprint](https://www.biorxiv.org/content/10.1101/2024.11.28.625915v1)
+van der Plas, M., Roux, F., Chelvarajah, R., Sawlani, V., Staresina, B.P., Wimber, M., Rollings, D.T., Hanslmayr, S. (2025) Characterizing neuronal and population responses to electrical stimulation in the human hippocampo-cortical network. *Brain Stim*, accepted. [paper](https://www.sciencedirect.com/science/article/pii/S1935861X25003298)
 
 Reis, C., Azizollahi, H., Headley, G., Navarro, S., Hanslmayr, S., Clouter, A., Zanto, T., Certain, R. (2025) VR-based Gamma Sensory Stimulation: A feasibility study. *Sci Rep* 15, 28491. [link](https://doi.org/10.1038/s41598-025-13725-6). 
 
