@@ -16,6 +16,8 @@ author_profile: true
 <br>
 <br>
 
+<img align="left" src="https://hanslmayr.github.io/images/New2team.png" width="100 px" style="padding: 20px">
+
 01/10/25 **Yuxin Li**, who won a highly competitive scholarship by the CSC (China) joined our lab to embark on her research journey which will address the question of how prediction errors may induce theta phase resets and shape episodic memory. Congratulations Yuxin and welcome to Glasgow!
 <br>
 <br>
