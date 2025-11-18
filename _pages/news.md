@@ -6,6 +6,24 @@ author_profile: true
 ---
 ---
 
+<img align="left" src="https://hanslmayr.github.io/images/New2team.png" width="100 px" style="padding: 20px">
+
+01/11/25 **Xiangshu Wu**, just joined as a visiting PhD student, funded by a highly competitive CSC scholarship. During her stay, Xiangshu will investigate how the hippocampus initiates pattern reinstatement in the neocortex during episodic memory retrieval. Congratulations Xiangshu and welcome to Glasgow!
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+01/10/25 **Yuxin Li**, who won a highly competitive scholarship by the CSC (China) joined our lab to embark on her research journey which will address the question of how prediction errors may induce theta phase resets and shape episodic memory. Congratulations Yuxin and welcome to Glasgow!
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
 <img align="left" src="https://hanslmayr.github.io/images/paper.jpg" width="150 px" style="padding: 20px">
 
 15/09/25 New paper alert! Our paper entitled **Characterizing neuronal and population responses to electrical stimulation in the human hippocampo-cortical network.**, led by Mircea van der Plas just got accepted at *Brain Stimulation*! While the paper is being prepared for publication you can read the preprint [here](https://www.biorxiv.org/content/10.1101/2024.11.28.625915v1).  
