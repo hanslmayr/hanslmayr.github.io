@@ -11,6 +11,8 @@ Bergmann, Zoefel, Herrmann, Violante, Grossman, Hassan, Kasten, Siebner, Stecher
 
 ## Preprints/Submitted papers
 
+Marcantoni, E., Daube, C., Wang, D., Cao, C., Su, B., Zhan, S., Ince, R.A.A., Parkkonen, L., Palva, S., Bush, D., Hanslmayr, S. Non-invasive tracking of hippocampal theta oscillations. *biorxiv*, [preprint](https://www.biorxiv.org/content/10.64898/2026.01.13.699218v1)  
+
 Marsh, D.C, Sokoliuk, R., Aquino, K.M., Wilson, R., Pakenham, D.O., Sanchez Panchuelo, R., Brookes, M.J., Hanslmayr, S., Mayhew, S.D, Francis, S.T., Mullinger, K.J. Cortical-layer EEG-fMRI at 7T: experimental setup and analysis pipeline to elucidate generating mechanisms of alpha oscillations. *biorxiv*, [preprint](https://doi.org/10.1101/2025.09.09.674189)
 
 Duecker, K., Shapiro, K.L., Hanslmayr, S., Griffiths, B.J., Quinn, A.J., Wolfe, J., Pan, Y., Pastuszak, A., Jensen, O. Higher baseline alpha power is associated with faster responses in visual search. *biorxiv*, [preprint](https://doi.org/10.1101/2025.08.29.673162)
