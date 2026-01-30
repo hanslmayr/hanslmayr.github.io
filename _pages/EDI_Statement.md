@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Equality, Diversity and Inclusivity Statement"
-permalink: /EDI_Statement/
+title: "Lab Resources"
+permalink: /Lab_Resources/
 author_profile: true
 ---
 
