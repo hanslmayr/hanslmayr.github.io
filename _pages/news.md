@@ -5,6 +5,7 @@ permalink: /news/
 author_profile: true
 ---
 ---
+<img align="left" src="https://hanslmayr.github.io/images/paper.jpg" width="150 px" style="padding: 20px">
 
 30/01/26 New paper alert! Our paper entitled **Pre-stimulus alpha power modulates trial-by-trial variability in theta rhythmic multisensory entrainment strength and theta-induced memory effect.**, led by Danying Wang just got accepted at *Communications Psychology*! You can read all about it [here](https://www.nature.com/articles/s44271-026-00406-x). 
 <br>
