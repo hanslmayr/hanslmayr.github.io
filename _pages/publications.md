@@ -11,21 +11,25 @@ Bergmann, Zoefel, Herrmann, Violante, Grossman, Hassan, Kasten, Siebner, Stecher
 
 ## Preprints/Submitted papers
 
+[126] Caldwell, H.B., Chatburn, A., Lushington, K., Hanslmayr, S., Michelmann, S. Phase similarity between similar objects indicates representational merging across retrieval training but not sleep. *biorxiv*, [preprint](https://www.biorxiv.org/content/10.64898/2026.01.18.700222v1.abstract)
+
 Marcantoni, E., Daube, C., Wang, D., Cao, C., Su, B., Zhan, S., Ince, R.A.A., Parkkonen, L., Palva, S., Bush, D., Hanslmayr, S. Non-invasive tracking of hippocampal theta oscillations. *biorxiv*, [preprint](https://www.biorxiv.org/content/10.64898/2026.01.13.699218v1)  
 
 Marsh, D.C, Sokoliuk, R., Aquino, K.M., Wilson, R., Pakenham, D.O., Sanchez Panchuelo, R., Brookes, M.J., Hanslmayr, S., Mayhew, S.D, Francis, S.T., Mullinger, K.J. Cortical-layer EEG-fMRI at 7T: experimental setup and analysis pipeline to elucidate generating mechanisms of alpha oscillations. *biorxiv*, [preprint](https://doi.org/10.1101/2025.09.09.674189)
 
 Duecker, K., Shapiro, K.L., Hanslmayr, S., Griffiths, B.J., Quinn, A.J., Wolfe, J., Pan, Y., Pastuszak, A., Jensen, O. Higher baseline alpha power is associated with faster responses in visual search. *biorxiv*, [preprint](https://doi.org/10.1101/2025.08.29.673162)
 
-Wang, D., Marcantoni, E.,  Shapiro, K.L., Hanslmayr, S. Pre-stimulus alpha power modulates trial-by-trial variability in theta rhythmic multisensory entrainment strength and theta-induced memory effect. *biorxiv*, [preprint](https://doi.org/10.1101/2025.07.02.662871)
-
 Kahn, M., Chan, D., Wang, D., Geigenmuller, U., Blanco-Duque, C., Murdock, M.H., Suk, H.J.,  Jackson, B., Jakkamsetti, V., Niederst, E.,  Brown, E.N., Boyden, E.S., McHugh, T., Adaikkan, C., Singer, A.C., Hanslmayr, S., Tsai, L.H. Gamma sensory stimulation and effects on the brain. *bioRxiv*, [preprint](https://www.biorxiv.org/content/10.1101/2023.10.30.564197v1) 
 
 Chen, Q., McAllister, C.J., Elliott, M.T., Shapiro, K.L., Hanslmayr, S. Beta bursts correlate with synchronization of movements to rhythmic sounds. *bioRxiv*, [preprint](https://www.biorxiv.org/content/10.1101/2023.03.14.532353v1)
 
 ## Peer-reviewed publications
+2026 - in press
+---
+---
+Wang, D., Marcantoni, E., Shapiro, K.L. Hanslmayr, S. (2026) Pre-stimulus alpha power modulates trial-by-trial variability in theta rhythmic multisensory entrainment strength and theta-induced memory effect. *Commun Psychol*, accepted. [paper](https://doi.org/10.1038/s44271-026-00406-x). 
 
-2025 - in press
+2025
 ---
 ---
 
