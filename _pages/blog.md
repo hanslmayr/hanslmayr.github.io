@@ -1,5 +1,5 @@
 ---
-layout: blog
+layout: default
 title: "Simon's blog"
 permalink: /blog/
 author_profile: true
