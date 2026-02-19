@@ -1,7 +1,7 @@
 ---
 title: 'How to get through to interview'
 date: 2026-02-19
-permalink: /blog/how2get2interview
+permalink: /blog/how2get2interview/
 tags:
   - funding
   - guide
