@@ -9,4 +9,4 @@ Welcome to Simon's blog where he occasionally posts research-related stuff.
 
 My first post is a guide on which errors cardinal errors you should avoid in grant writing if you want to get through to interview.
 
-{% post_url 2026-02-19-how2get2interview %}Click here to read it</a>
+Click here to read it
