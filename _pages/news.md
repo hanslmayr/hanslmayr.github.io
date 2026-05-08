@@ -5,6 +5,15 @@ permalink: /news/
 author_profile: true
 ---
 ---
+<img align="left" src="https://hanslmayr.github.io/images/New2team.png" width="100 px" style="padding: 20px">
+
+01/05/26 **Dr Anna Karlsson, Dennis Grigoryev and Barbalā Ostrovska**, just joined the NOT CoOL Lab! All three of them will perform crucial research in the MemoryIndex project, funded by an ERC Advanced Grant. The goal of the project is to lay the basic science foundation for an effective neural prosthesis for memory. Anna will investigate how episode specific and concept codes map onto hippocampal subfields, whilst Barbalā will investigate how human single neurons coding for specific episodes and more general concepts support episodic memory. Dennis will create an in-silico model of the human hippocampus which can be used to simulate how neurons respond to electrical microwire stimulation. All three of them were the top choices after a highly selective process and we couldn't be more excited to welcome them to Glaesga!
+<br>
+<br>
+<br>
+<br>
+
+
 <img align="left" src="https://hanslmayr.github.io/images/paper.jpg" width="150 px" style="padding: 20px">
 
 30/01/26 New paper alert! Our paper entitled **Pre-stimulus alpha power modulates trial-by-trial variability in theta rhythmic multisensory entrainment strength and theta-induced memory effect.**, led by Danying Wang just got accepted at *Communications Psychology*! You can read all about it [here](https://www.nature.com/articles/s44271-026-00406-x). 
