@@ -5,6 +5,15 @@ permalink: /news/
 author_profile: true
 ---
 ---
+<img align="left" src="https://hanslmayr.github.io/images/celebrate.jpg" width="100 px" style="padding: 20px">
+
+12/06/26 We are thrilled to announce that Dr Isabel Raposo won a highly competitive Walter Benjamin Fellowship from the German Research Foundation (DFG). Her research project is entitled "Investigating the transformation of memories from episodes to concept codes in the human hippocampus” and will investigate whether neural codes for general concepts evolve from episode specific memory codes using ultra-high resolution imaging and human single cell recordings.
+<br>
+<br>
+<br>
+<br>
+
+
 <img align="left" src="https://hanslmayr.github.io/images/New2team.png" width="100 px" style="padding: 20px">
 
 01/05/26 **Dr Anna Karlsson, Dennis Grigoryev and Bārbala Ostrovska**, just joined the NOT CoOL Lab! All three of them will perform crucial research in the MemoryIndex project, funded by an ERC Advanced Grant. The goal of the project is to lay the basic science foundation for an effective neural prosthesis for memory. Anna will investigate how episode specific and concept codes map onto hippocampal subfields, whilst Bārbala will investigate how human single neurons coding for specific episodes and more general concepts support episodic memory. Dennis will create an in-silico model of the human hippocampus which can be used to simulate how neurons respond to electrical microwire stimulation. All three of them were the top choices after a highly selective process and we couldn't be more excited to welcome them to Glaesga!
