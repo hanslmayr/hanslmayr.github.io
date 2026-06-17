@@ -7,7 +7,7 @@ author_profile: true
 ---
 <img align="left" src="https://hanslmayr.github.io/images/celebrate.jpg" width="100 px" style="padding: 20px">
 
-12/06/26 We are thrilled to announce that Dr Isabel Raposo won a highly competitive Walter Benjamin Fellowship from the German Research Foundation (DFG). Her research project is entitled "Investigating the transformation of memories from episodes to concept codes in the human hippocampus” and will investigate whether neural codes for general concepts evolve from episode specific memory codes using ultra-high resolution imaging and human single cell recordings.
+12/06/26 We are thrilled to announce that **Dr Isabel Raposo** won a highly competitive Walter Benjamin Fellowship from the German Research Foundation (DFG). Her research project is entitled "Investigating the transformation of memories from episodes to concept codes in the human hippocampus” and will investigate whether neural codes for general concepts evolve from episode specific memory codes using ultra-high resolution imaging and human single cell recordings.
 <br>
 <br>
 <br>
