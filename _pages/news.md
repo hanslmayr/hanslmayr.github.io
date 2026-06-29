@@ -5,6 +5,15 @@ permalink: /news/
 author_profile: true
 ---
 ---
+<img align="left" src="https://hanslmayr.github.io/images/paper.jpg" width="150 px" style="padding: 20px">
+
+24/06/2026 New paper alert! **Ying Yao** published her first paper in PLOS Biology titled **It’s not just the phase: Frequency-dependent tuning of neuronal firing**. Read [here](https://doi.org/10.1371/journal.pbio.3003846).
+<br>
+<br>
+<br>
+<br>
+
+
 <img align="left" src="https://hanslmayr.github.io/images/celebrate.jpg" width="100 px" style="padding: 20px">
 
 12/06/26 We are thrilled to announce that **Dr Isabel Raposo** won a highly competitive Walter Benjamin Fellowship from the German Research Foundation (DFG). Her research project is entitled "Investigating the transformation of memories from episodes to concept codes in the human hippocampus” and will investigate whether neural codes for general concepts evolve from episode specific memory codes using ultra-high resolution imaging and human single cell recordings.

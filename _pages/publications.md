@@ -30,6 +30,11 @@ Chen, Q., McAllister, C.J., Elliott, M.T., Shapiro, K.L., Hanslmayr, S. Beta bur
 
 Wang, D., Marcantoni, E., Shapiro, K.L. Hanslmayr, S. (2026) Pre-stimulus alpha power modulates trial-by-trial variability in theta rhythmic multisensory entrainment strength and theta-induced memory effect. *Commun Psychol*, accepted. [paper](https://doi.org/10.1038/s44271-026-00406-x). 
 
+2026
+---
+---
+Yao Y, Hanslmayr S (2026) It’s not just the phase: Frequency-dependent tuning of neuronal firing. PLoS Biol 24(6): e3003846. [paper](https://doi.org/10.1371/journal.pbio.3003846)
+
 2025
 ---
 ---
