@@ -5,6 +5,15 @@ permalink: /news/
 author_profile: true
 ---
 ---
+<img align="left" src="https://hanslmayr.github.io/images/New2team.png" width="100 px" style="padding: 20px">
+
+01/09/26 Exciting news alert! **Dr Isabel Raposo** joined the NOT CoOL Lab! Funded by Walter Benjamin Fellowship from the German Research Foundation (DFG), Isabel will investigate whether neural codes for general concepts evolve from episode specific memory codes using ultra-high resolution imaging and human single cell recordings. Welcome to the lab!
+<br>
+<br>
+<br>
+<br>
+
+
 <img align="left" src="https://hanslmayr.github.io/images/paper.jpg" width="150 px" style="padding: 20px">
 
 07/07/26 Our paper titled **"Phase similarity between similar objects indicates representational merging across retrieval training but not sleep"**, led by **Dr Hayley Caldwell** (visiting PhD alumna, **Prof. Hanslmayr's lab**) just got accepted at Imaging Neuroscience [link](https://direct.mit.edu/imag). 
