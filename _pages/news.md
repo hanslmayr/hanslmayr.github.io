@@ -5,6 +5,15 @@ permalink: /news/
 author_profile: true
 ---
 ---
+<img align="left" src="https://hanslmayr.github.io/images/celebrate.jpg" width="100 px" style="padding: 20px">
+
+09/10/26 Podcast alert! In this episode of *Neurones & Nebulae podcast* Prof. Simon Hanslmayr speaks about the hippocampus, different types of memory, memory consolidation, and brain oscillations among many other exciting topics! [available now on Spotify](https://open.spotify.com/episode/06iGO7ACHDcDOEcu8kMun2?si=399481760f124a4e)
+<br>
+<br>
+<br>
+<br>
+
+
 <img align="left" src="https://hanslmayr.github.io/images/paper.jpg" width="150 px" style="padding: 20px">
 
 07/10/26 New paper alert! "Cortical-layer EEG-fMRI at 7T: experimental setup and analysis pipeline to elucidate generating mechanisms of alpha oscillations" by Marsh, D.C, Sokoliuk, R., Aquino, K.M., Wilson, R., Pakenham, D.O., Sanchez Panchuelo, R., Brookes, M.J., **Hanslmayr**, S., Mayhew, S.D, Francis, S.T., Mullinger, K.J. was accepted at *Imaging Neuroscience*, [paper](https://doi.org/10.1101/2025.09.09.674189)
