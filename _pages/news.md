@@ -5,6 +5,15 @@ permalink: /news/
 author_profile: true
 ---
 ---
+<img align="left" src="https://hanslmayr.github.io/images/paper.jpg" width="150 px" style="padding: 20px">
+
+21/10/26 New preprints alert! "Beyond Rate: Hippocampal Phase Codes for Space and Memory" Kolibius, L.D., Hermiller, M.S., Khazali, M.F., Gollwitzer, S., Walther, K., Hopfengärtner, R., Hamer, H., Ter Wal, M., van der Plas, M., Hanslmayr, S., Bowman, H., Jacobs, J. [preprint](https://doi.org/10.64898/2026.10.13.758895) and "Comparing re-referencing methods for human intracranial EEG." Kolibius, L.D., Parish, G., van der Plas, M., Ter Wal, M., Rollings, D., Gollwitzer, S., Walther, K., Hopfengärtner, R., Hamer, H., Wimber, M., Hanslmayr, S. [preprint](https://doi.org/10.64898/2026.10.13.758866)
+<br>
+<br>
+<br>
+<br>
+
+
 <img align="left" src="https://hanslmayr.github.io/images/celebrate.jpg" width="100 px" style="padding: 20px">
 
 09/10/26 Podcast alert! In this episode of *Neurones & Nebulae podcast* Prof. Simon Hanslmayr speaks about the hippocampus, different types of memory, memory consolidation, and brain oscillations among many other exciting topics! [available now on Spotify](https://open.spotify.com/episode/06iGO7ACHDcDOEcu8kMun2?si=399481760f124a4e)

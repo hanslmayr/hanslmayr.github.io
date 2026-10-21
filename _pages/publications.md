@@ -10,6 +10,9 @@ Bergmann, Zoefel, Herrmann, Violante, Grossman, Hassan, Kasten, Siebner, Stecher
 
 
 ## Preprints/Submitted papers
+Kolibius, L.D., Parish, G., van der Plas, M., Ter Wal, M., Rollings, D., Gollwitzer, S., Walther, K., Hopfengärtner, R., Hamer, H., Wimber, M., Hanslmayr, S. Comparing re-referencing methods for human intracranial EEG. *biorxiv*, [preprint](https://doi.org/10.64898/2026.10.13.758866)
+
+Kolibius, L.D., Hermiller, M.S., Khazali, M.F., Gollwitzer, S., Walther, K., Hopfengärtner, R., Hamer, H., Ter Wal, M., van der Plas, M., Hanslmayr, S., Bowman, H., Jacobs, J. Beyond Rate: Hippocampal Phase Codes for Space and Memory. *biorxiv*, [preprint](https://doi.org/10.64898/2026.10.13.758895)
 
 Ding, Z., Yuan, S. Xu, J., Zhang, S., Hanslmayr, S., Liu, X.,  Zhang, M. Active control modulates memory-related activity during encoding and encoding–retrieval similarity. *biorxiv*, [preprint](https://www.biorxiv.org/content/10.64898/2026.08.23.746434v1)
 
