@@ -5,6 +5,15 @@ permalink: /news/
 author_profile: true
 ---
 ---
+<img align="left" src="https://hanslmayr.github.io/images/New2team.png" width="100 px" style="padding: 20px">
+
+05/11/26 Exciting news alert! **Jil Bahlig**, MSc visiting student from Maastricht University joined the NOT CoOL Lab today! Supervised by Dr. Eleonora Marcantoni, Prof. Simon Hanslmayr, and Prof. Sanne ten Oever, she will use magnetoencephalography (MEG) to investigate how ongoing hippocampal theta phase influences the ability of sensory stimulation to entrain theta rhythms and improve episodic memory. Welcome to the lab, Jil!
+<br>
+<br>
+<br>
+<br>
+
+
 <img align="left" src="https://hanslmayr.github.io/images/paper.jpg" width="150 px" style="padding: 20px">
 
 21/10/26 New preprints alert! "Beyond Rate: Hippocampal Phase Codes for Space and Memory" Kolibius, L.D., Hermiller, M.S., Khazali, M.F., Gollwitzer, S., Walther, K., Hopfengärtner, R., Hamer, H., Ter Wal, M., van der Plas, M., Hanslmayr, S., Bowman, H., Jacobs, J. [preprint](https://doi.org/10.64898/2026.10.13.758895) and "Comparing re-referencing methods for human intracranial EEG." Kolibius, L.D., Parish, G., van der Plas, M., Ter Wal, M., Rollings, D., Gollwitzer, S., Walther, K., Hopfengärtner, R., Hamer, H., Wimber, M., Hanslmayr, S. [preprint](https://doi.org/10.64898/2026.10.13.758866)
